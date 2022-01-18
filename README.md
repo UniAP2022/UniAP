@@ -8,10 +8,6 @@ Origin audio (xxx in xxx):
 
 https://user-images.githubusercontent.com/97931505/149879984-87b26ce0-0b06-479a-88a5-1af5038b119f.mov
 
-​<audio id="audio" controls="" preload="none">
-      <source id="wav" src="http://universal-audio-perturbation.herokuapp.com/audio/Orig_100_1.wav">
-</audio>
-
 Transcript: "xxx".
 
 Origin audio + Universal perturbaion (init status: xxx, SNR: xxx):
