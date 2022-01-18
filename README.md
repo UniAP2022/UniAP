@@ -2,7 +2,7 @@
 This is the code corresponding to the paper "UniAP: Protect Speech Privacy with Non-targeted Universal AdversarialPerturbations"
 
 # Universal Adversarial Perturbations
-We generate multiple non-targeted UAPs from different initialization status to defend against template subtracting method. we set the initialization status to be one of the following categories: random combination of sentence starter words, words containing multiple vowel phonemes, words containing multiple consonant phonemes and their combination.
+We generate multiple non-targeted UAPs from different initialization status to defend against template subtracting method. We set the initialization status to be one of the following categories: random combination of sentence starter words, words containing multiple vowel phonemes, words containing multiple consonant phonemes and their combination.
 ## random combination of sentence starter words 
 Origin audio (xxx in xxx):
 
