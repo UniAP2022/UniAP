@@ -68,4 +68,8 @@ https://user-images.githubusercontent.com/97931505/149879984-87b26ce0-0b06-479a-
 
 Transcript: "xxx".
 
+## walking scenario
+
+https://user-images.githubusercontent.com/97931505/151294873-daee34eb-b221-400c-ad14-e014b18c0e50.mov
+
 # Code
