@@ -123,7 +123,7 @@ https://user-images.githubusercontent.com/97931505/151660153-a2f991e4-bab0-4c27-
 
 Transcript: "i've strong assurance that no evil will happen to you and my uncle and the children from anything i've done"
 
-Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.11dB):
+Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.71dB):
 
 https://user-images.githubusercontent.com/97931505/151660159-46040e9c-ac2c-40ca-92c6-1ea21c0826bc.mov
 
@@ -136,7 +136,7 @@ https://user-images.githubusercontent.com/97931505/151660109-20b7d8da-cc33-47bd-
 
 Transcript: "i've strong assurance that no evil will happen to you and my uncle and the children from anything i've done".
 
-Origin audio + Universal perturbaion (init status: underplayed_conclusions_flextronic, SNR: 41.11dB):
+Origin audio + Universal perturbaion (init status: underplayed_conclusions_flextronic, SNR1: 48.21, SNR2: 31.51dB):
 
 https://user-images.githubusercontent.com/97931505/151660115-c083fec5-1e7a-4d00-8c6b-c62f37aa730b.mov
 
