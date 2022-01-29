@@ -80,7 +80,7 @@ https://user-images.githubusercontent.com/97931505/151657475-c06ca5fa-5acb-48c6-
 
 Transcript: "the influence with the timaeus has exercised upon posterity is due partly to a misunderstanding"
 
-Origin audio + Universal perturbaion (init status: xxx, SNR: xxx):
+Origin audio + Universal perturbaion (init status: kobayashi_loiacano, SNR: 42.21dB):
 
 https://user-images.githubusercontent.com/97931505/151657491-5e2e5074-e790-4da0-a3e7-afb32f4ea579.mov
 
@@ -93,7 +93,7 @@ https://user-images.githubusercontent.com/97931505/151657512-780bf48f-0e56-4699-
 
 Transcript: "the delaware dog he said leaning forward and peering through the dim light to catch the expression of the other's features is he afraid"
 
-Origin audio + Universal perturbaion (init status: xxx, SNR: xxx):
+Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.11dB):
 
 https://user-images.githubusercontent.com/97931505/151657523-65f4535c-4b04-4025-ab53-b5452d73c888.mov
 
@@ -106,7 +106,7 @@ https://user-images.githubusercontent.com/97931505/151657658-fcc3c79b-40f6-4bd8-
 
 Transcript: "the grateful applause of the clergy has consecrated the memory of a prince who indulged their passions and promoted their interest"
 
-Origin audio + Universal perturbaion (init status: xxx, SNR: xxx):
+Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.11dB):
 
 https://user-images.githubusercontent.com/97931505/151657663-7a936445-c904-4fcf-adc2-6020cf9e7846.mov
 
@@ -123,7 +123,7 @@ https://user-images.githubusercontent.com/97931505/151660153-a2f991e4-bab0-4c27-
 
 Transcript: "i've strong assurance that no evil will happen to you and my uncle and the children from anything i've done"
 
-Origin audio + Universal perturbaion (init status: xxx, SNR: xxx):
+Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.11dB):
 
 https://user-images.githubusercontent.com/97931505/151660159-46040e9c-ac2c-40ca-92c6-1ea21c0826bc.mov
 
@@ -136,7 +136,7 @@ https://user-images.githubusercontent.com/97931505/151660109-20b7d8da-cc33-47bd-
 
 Transcript: "i've strong assurance that no evil will happen to you and my uncle and the children from anything i've done".
 
-Origin audio + Universal perturbaion (init status: xxx, SNR: xxx):
+Origin audio + Universal perturbaion (init status: underplayed_conclusions_flextronic, SNR: 41.11dB):
 
 https://user-images.githubusercontent.com/97931505/151660115-c083fec5-1e7a-4d00-8c6b-c62f37aa730b.mov
 
