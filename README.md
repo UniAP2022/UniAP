@@ -70,6 +70,8 @@ Transcript: "xxx".
 
 ## walking scenario
 
+[walking_scenario_mosaic.pdf](https://github.com/UniAP2022/UniAP/files/7962927/walking_scenario_mosaic.pdf)
+
 https://user-images.githubusercontent.com/97931505/151294873-daee34eb-b221-400c-ad14-e014b18c0e50.mov
 
 # Code
