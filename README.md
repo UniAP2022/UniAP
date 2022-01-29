@@ -71,7 +71,7 @@ https://user-images.githubusercontent.com/97931505/149879984-87b26ce0-0b06-479a-
 Transcript: "xxx".
 
 
-## over the air scenario
+## over-the-air
 ### chatting scenario
 #### The microphone is on the table
 Origin audio (2961-960-0001 in xxx):
