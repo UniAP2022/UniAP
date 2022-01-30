@@ -10,6 +10,10 @@ Origin audio (xxx in xxx):
 
 
 
+https://user-images.githubusercontent.com/97931505/151703353-546b6868-4e57-418e-b5d0-f93f575ff3dd.mov
+
+
+
 Transcript: "xxx".
 
 Origin audio + Universal perturbaion (init status: namely considering, SNR: xxx):
@@ -22,7 +26,11 @@ Transcript: "took a gave him a little brandy and left him collapsed in a chair w
 ### single word containing multiple vowel phonemes 
 Origin audio (xxx in xxx):
 
-https://user-images.githubusercontent.com/97931505/149879984-87b26ce0-0b06-479a-88a5-1af5038b119f.mov
+
+
+https://user-images.githubusercontent.com/97931505/151703370-bb55ab58-b2cb-4e52-8038-1a9176eee9f0.mov
+
+
 
 Transcript: "xxx".
 
@@ -39,7 +47,11 @@ Transcript: "i've been others ti influenice o the which to other to me is i has 
 ### random combination of words containing multiple vowel phonemes
 Origin audio (xxx in xxx):
 
-https://user-images.githubusercontent.com/97931505/149879984-87b26ce0-0b06-479a-88a5-1af5038b119f.mov
+
+
+https://user-images.githubusercontent.com/97931505/151703379-81e6fc0f-10c1-4869-9f8e-7097c8fcf31d.mov
+
+
 
 Transcript: "xxx".
 
@@ -57,7 +69,11 @@ Transcript: "and when they we as the skar lat latter weinter nother form when th
 ### single word containing multiple consonant phonemes 
 Origin audio (xxx in xxx):
 
-https://user-images.githubusercontent.com/97931505/149879984-87b26ce0-0b06-479a-88a5-1af5038b119f.mov
+
+
+https://user-images.githubusercontent.com/97931505/151703393-18b2e71f-ebce-4e19-a70a-8b078365775d.mov
+
+
 
 Transcript: "xxx".
 
@@ -74,7 +90,11 @@ Transcript: "to there was given hes isan inti athy lan an intipidly ico nocket a
 ### random combination of words containing multiple consonant phonemes
 Origin audio (xxx in xxx):
 
-https://user-images.githubusercontent.com/97931505/149879984-87b26ce0-0b06-479a-88a5-1af5038b119f.mov
+
+
+https://user-images.githubusercontent.com/97931505/151703405-bd72009d-ca6e-4011-9fc5-211ba7dbf2fa.mov
+
+
 
 Transcript: "xxx".
 
