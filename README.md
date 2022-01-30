@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/97931505/151702556-94c92b4d-390d-4457-
 
 
 
-Transcript: "xxx".
+Transcript: "i've been others ti influenice o the which to other to me is i has exercised other on besspari tilhere's i been other disduo the cart to each o wo missender spanding others i've".
 
 ### random combination of words containing multiple vowel phonemes
 Origin audio (xxx in xxx):
@@ -51,7 +51,8 @@ https://user-images.githubusercontent.com/97931505/151702585-aabf55c9-1008-4663-
 
 
 
-Transcript: "xxx".
+Transcript: "and when they we as the skar lat latter weinter nother form when they were come the scar let letter in  dowed when they flyng hm when e
+".
 
 ### single word containing multiple consonant phonemes 
 Origin audio (xxx in xxx):
@@ -68,7 +69,7 @@ https://user-images.githubusercontent.com/97931505/151702596-dcfd5e56-f3a5-4910-
 
 
 
-Transcript: "xxx".
+Transcript: "to there was given hes isan inti athy lan an intipidly ico nocket all for intere dorices with givento beu made think it o labiness r e don't blame in ee waso".
 
 ### random combination of words containing multiple consonant phonemes
 Origin audio (xxx in xxx):
@@ -81,7 +82,7 @@ Origin audio + Universal perturbaion (init status: mockingbird investigations, S
 
 https://user-images.githubusercontent.com/97931505/151702603-0f3aef15-98e1-4b72-a825-274fb2822346.mov
 
-Transcript: "xxx".
+Transcript: "one of the takes marg appan you  got it takes ote latics firsiings while the others tereans at taside ob chass one of e day one of the takes one".
 
 
 ## over-the-air
