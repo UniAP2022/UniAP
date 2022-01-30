@@ -8,15 +8,19 @@ We generate multiple non-targeted UAPs from different initialization status to d
 ### random combination of sentence starter words 
 Origin audio (xxx in xxx):
 
-https://user-images.githubusercontent.com/97931505/149879984-87b26ce0-0b06-479a-88a5-1af5038b119f.mov
+
 
 Transcript: "xxx".
 
-Origin audio + Universal perturbaion (init status: xxx, SNR: xxx):
+Origin audio + Universal perturbaion (init status: namely considering, SNR: xxx):
 
-https://user-images.githubusercontent.com/97931505/149879984-87b26ce0-0b06-479a-88a5-1af5038b119f.mov
 
-Transcript: "xxx".
+
+https://user-images.githubusercontent.com/97931505/151702125-7acf22c8-8653-4f07-be4e-ba70acedc3d3.mov
+
+
+
+Transcript: "took a gave him a little brandy and left him collapsed in a chair will i ate hamost careful examination of the room you took".
 
 ### single word containing multiple vowel phonemes 
 Origin audio (xxx in xxx):
