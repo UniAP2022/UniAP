@@ -14,10 +14,7 @@ Transcript: "xxx".
 
 Origin audio + Universal perturbaion (init status: namely considering, SNR: xxx):
 
-
-
-https://user-images.githubusercontent.com/97931505/151702125-7acf22c8-8653-4f07-be4e-ba70acedc3d3.mov
-
+https://user-images.githubusercontent.com/97931505/151702647-a2a3d265-2dae-490b-b8e3-9269f02ccce6.mov
 
 
 Transcript: "took a gave him a little brandy and left him collapsed in a chair will i ate hamost careful examination of the room you took".
@@ -29,7 +26,7 @@ https://user-images.githubusercontent.com/97931505/149879984-87b26ce0-0b06-479a-
 
 Transcript: "xxx".
 
-Origin audio + Universal perturbaion (init status: xxx, SNR: xxx):
+Origin audio + Universal perturbaion (init status: aduliadae, SNR: xxx):
 
 
 
@@ -46,7 +43,7 @@ https://user-images.githubusercontent.com/97931505/149879984-87b26ce0-0b06-479a-
 
 Transcript: "xxx".
 
-Origin audio + Universal perturbaion (init status: xxx, SNR: xxx):
+Origin audio + Universal perturbaion (init status: loiacano aduliadae paperworker, SNR: xxx):
 
 
 
@@ -63,7 +60,7 @@ https://user-images.githubusercontent.com/97931505/149879984-87b26ce0-0b06-479a-
 
 Transcript: "xxx".
 
-Origin audio + Universal perturbaion (init status: xxx, SNR: xxx):
+Origin audio + Universal perturbaion (init status: investigations, SNR: xxx):
 
 
 
@@ -80,7 +77,7 @@ https://user-images.githubusercontent.com/97931505/149879984-87b26ce0-0b06-479a-
 
 Transcript: "xxx".
 
-Origin audio + Universal perturbaion (init status: xxx, SNR: xxx):
+Origin audio + Universal perturbaion (init status: mockingbird investigations, SNR: xxx):
 
 https://user-images.githubusercontent.com/97931505/151702603-0f3aef15-98e1-4b72-a825-274fb2822346.mov
 
