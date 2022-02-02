@@ -177,3 +177,4 @@ https://user-images.githubusercontent.com/97931505/151660115-c083fec5-1e7a-4d00-
 Transcript: "they would with a they would with a ive strong as suran they spetan no egil wit had the te you and my own cold ind the children fermany ley nifeve dones they would". 
 
 # Code
+* setup
