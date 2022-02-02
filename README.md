@@ -180,8 +180,14 @@ Transcript: "they would with a they would with a ive strong as suran they spetan
 1. setup
   1. get deepspeech and checkpoint
 
-    >
-  
+    git clone https://github.com/mozilla/DeepSpeech.git
+    cd DeepSpeech
+    git checkout tags/v0.4.1
+    cd ..
+    wget https://github.com/mozilla/DeepSpeech/releases/download/v0.4.1/deepspeech-0.4.1-checkpoint.tar.gz
+    tar -xzf deepspeech-0.4.1-checkpoint.tar.gz
+    
+    
   2. docker image setup
     Pull the docker image and start it. 
     
