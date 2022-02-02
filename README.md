@@ -184,10 +184,11 @@ Transcript: "they would with a they would with a ive strong as suran they spetan
   
   2. docker image setup
     Pull the docker image and start it. 
-    >docker pull nvcr.io/nvidia/tensorflow:20.10-tf1-py3
-    >nvidia-docker run -it --name aae -v <yourdir>:/workspace/aae nvcr.io/nvidia/tensorflow:20.10-tf1-py3
     
-    >pip3 install progressbar numpy scipy pandas python_speech_features tables attrdict pyxdg ds-ctcdecoder Levenshtein
+    >
+    docker pull nvcr.io/nvidia/tensorflow:20.10-tf1-py3
+    nvidia-docker run -it --name aae -v <yourdir>:/workspace/aae nvcr.io/nvidia/tensorflow:20.10-tf1-py3
+    pip3 install progressbar numpy scipy pandas python_speech_features tables attrdict pyxdg ds-ctcdecoder Levenshtein
     
    
     
