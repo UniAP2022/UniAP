@@ -211,14 +211,13 @@ Transcript: "they would with a they would with a ive strong as suran they spetan
   5. generation perturabtion  
     ```
      python attack.py --inputdir <processed_data_dir> --outdir <output_dir> --random_shift  
-    ```
+    ```  
     
     The generation procedure shall read train and dev data from <processed_data_dir>, generate perturbation and saves it in <output_dir>/adv.wav  
   6. evaluation  
-    
     ```
      python evaluation.py --data_path <processed_data_dir>/test --delta <output_dir>/adv.wav --out <report_path> 
-    ```
+    ```  
     
     The evaluation procedure shall summary the evaluation in the text form with the path of <report_path>.
 # Nontice
