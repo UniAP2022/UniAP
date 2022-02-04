@@ -215,7 +215,7 @@ The <raw_data_dir> should be originized as three folders, train, dev and test. T
 python attack.py --inputdir <processed_data_dir> --outdir <output_dir> --random_shift  
 ```
 
-The generation procedure shall read train and dev data from <processed_data_dir>, generate perturbation and saves it in <output_dir>/adv.wav  
+The generation procedure shall read train and dev data from <processed_data_dir>, generate perturbation and save it in <output_dir>/adv.wav  
 6. evaluation  
 ```
 python evaluation.py --data_path <processed_data_dir>/test --delta <output_dir>/adv.wav --out <report_path> 
