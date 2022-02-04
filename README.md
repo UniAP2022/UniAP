@@ -177,6 +177,7 @@ https://user-images.githubusercontent.com/97931505/151660115-c083fec5-1e7a-4d00-
 Transcript: "they would with a they would with a ive strong as suran they spetan no egil wit had the te you and my own cold ind the children fermany ley nifeve dones they would". 
 
 # Code
+
 1. setup
   1. get deepspeech and checkpoint
 
@@ -196,5 +197,6 @@ Transcript: "they would with a they would with a ive strong as suran they spetan
     nvidia-docker run -it --name aae -v <yourdir>:/workspace/aae nvcr.io/nvidia/tensorflow:20.10-tf1-py3
     pip3 install progressbar numpy scipy pandas python_speech_features tables attrdict pyxdg ds-ctcdecoder Levenshtein
     
-   
+# Nontice
+  Most of the code in this repo is based on https://github.com/carlini/audio_adversarial_examples. 
     
