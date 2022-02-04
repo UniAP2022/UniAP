@@ -184,6 +184,7 @@ git clone https://github.com/UniAP2022/UniAP.git
 ```
 2. get deepspeech and checkpoint
 
+```
 cd UniAP/src
 git clone https://github.com/mozilla/DeepSpeech.git
 cd DeepSpeech
@@ -191,15 +192,16 @@ git checkout tags/v0.4.1
 cd ..
 wget https://github.com/mozilla/DeepSpeech/releases/download/v0.4.1/deepspeech-0.4.1-checkpoint.tar.gz
 tar -xzf deepspeech-0.4.1-checkpoint.tar.gz
-
+```
 
 3. docker image setup
 Pull the docker image and start it. 
 
-
+```
 docker pull nvcr.io/nvidia/tensorflow:20.10-tf1-py3
 nvidia-docker run -it --name aae -v UniAP/src:/workspace/aae nvcr.io/nvidia/tensorflow:20.10-tf1-py3
 pip3 install progressbar numpy scipy pandas python_speech_features tables attrdict pyxdg ds-ctcdecoder Levenshtein
+```
 4. data preparation 
 Before generating adversarial perturbation, we should process the data (audios and texts) into a format that matches the input form of generation procedure.
 ```
@@ -209,14 +211,15 @@ python process_data.py --in <raw_data_dir> --out <processed_data_dir>
 
 The <raw_data_dir> should be originized as three folders, train, dev and test. These folders are futher divided into two folders, namely audio and text, which contains  audio files in wav form with 16 bit depth and 16k sampling rate and their corresponding transcripts. It should be noted audio files and text files need to have the same filename. For more details , we have provided a simple in data/raw. The audio files and text files are selected from Librispeech train-clean-100.
 5. generation perturabtion  
-
+```
 python attack.py --inputdir <processed_data_dir> --outdir <output_dir> --random_shift  
-
+```
 
 The generation procedure shall read train and dev data from <processed_data_dir>, generate perturbation and saves it in <output_dir>/adv.wav  
 6. evaluation  
+```
 python evaluation.py --data_path <processed_data_dir>/test --delta <output_dir>/adv.wav --out <report_path> 
-
+```
 
 The evaluation procedure shall summary the evaluation in the text form with the path of <report_path>.
 # Nontice
