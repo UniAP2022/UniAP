@@ -179,9 +179,9 @@ Transcript: "they would with a they would with a ive strong as suran they spetan
 # Code Usage
 
   1. get the code  
-    """
+    ```
     git clone https://github.com/UniAP2022/UniAP.git
-    """
+    ```
   2. get deepspeech and checkpoint
     
     cd UniAP/src
@@ -209,15 +209,14 @@ Transcript: "they would with a they would with a ive strong as suran they spetan
      
      The <raw_data_dir> should be originized as three folders, train, dev and test. These folders are futher divided into two folders, namely audio and text, which contains  audio files in wav form with 16 bit depth and 16k sampling rate and their corresponding transcripts. It should be noted audio files and text files need to have the same filename. For more details , we have provided a simple in data/raw. The audio files and text files are selected from Librispeech train-clean-100.
   5. generation perturabtion  
-    ```
-     python attack.py --inputdir <processed_data_dir> --outdir <output_dir> --random_shift  
-    ```  
+    
+    python attack.py --inputdir <processed_data_dir> --outdir <output_dir> --random_shift  
+      
     
     The generation procedure shall read train and dev data from <processed_data_dir>, generate perturbation and saves it in <output_dir>/adv.wav  
   6. evaluation  
-    ```
      python evaluation.py --data_path <processed_data_dir>/test --delta <output_dir>/adv.wav --out <report_path> 
-    ```  
+     
     
     The evaluation procedure shall summary the evaluation in the text form with the path of <report_path>.
 # Nontice
