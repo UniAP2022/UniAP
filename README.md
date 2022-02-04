@@ -178,10 +178,13 @@ Transcript: "they would with a they would with a ive strong as suran they spetan
 
 # Code Usage
 
-  1. 
-  
+  1. get the code  
+    """
+    git clone https://github.com/UniAP2022/UniAP.git
+    """
   2. get deepspeech and checkpoint
-
+    
+    cd UniAP/src
     git clone https://github.com/mozilla/DeepSpeech.git
     cd DeepSpeech
     git checkout tags/v0.4.1
@@ -195,7 +198,7 @@ Transcript: "they would with a they would with a ive strong as suran they spetan
     
     
     docker pull nvcr.io/nvidia/tensorflow:20.10-tf1-py3
-    nvidia-docker run -it --name aae -v <yourdir>:/workspace/aae nvcr.io/nvidia/tensorflow:20.10-tf1-py3
+    nvidia-docker run -it --name aae -v UniAP/src:/workspace/aae nvcr.io/nvidia/tensorflow:20.10-tf1-py3
     pip3 install progressbar numpy scipy pandas python_speech_features tables attrdict pyxdg ds-ctcdecoder Levenshtein
   4. data preparation 
      Before generating adversarial perturbation, we should process the data (audios and texts) into a format that matches the input form of generation procedure.
