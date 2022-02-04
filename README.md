@@ -200,6 +200,7 @@ Transcript: "they would with a they would with a ive strong as suran they spetan
     pip3 install progressbar numpy scipy pandas python_speech_features tables attrdict pyxdg ds-ctcdecoder Levenshtein
   4. data preparation 
      Before generating adversarial perturbation, we should process the data (audios and texts) into a format that matches the input form of generation procedure.
+     
       cd /workspace/aae
       python process_data.py --in <raw_data_dir> --out <processed_data_dir>
      
