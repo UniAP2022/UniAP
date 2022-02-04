@@ -205,17 +205,17 @@ Transcript: "they would with a they would with a ive strong as suran they spetan
      python process_data.py --in <raw_data_dir> --out <processed_data_dir>
      
      The <raw_data_dir> should be originized as three folders, train, dev and test. These subfolders are futher divided into two folders, namely audio and text
-     >####train
-     >#####audio
-     >      1.wav
-     >      2.wav
-     >      ...
-     >#####text
-     >      1.txt
-     >      2.txt
-     >      ...
-     >####dev
-     >####test
+     > ####train
+     > #####audio
+     >       1.wav
+     >       2.wav
+     >       ...
+     > #####text
+     >       1.txt
+     >       2.txt
+     >       ...
+     > ####dev
+     > ####test
      
 # Nontice
   Most of the code in this repo is based on https://github.com/carlini/audio_adversarial_examples. 
