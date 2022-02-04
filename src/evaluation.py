@@ -95,7 +95,7 @@ if __name__ == '__main__':
             idx = random.randint(0, len(delta_frame)-1)
             delta_frame_shift = np.concatenate([delta_frame[idx:], delta_frame[0:idx]], axis = 0)
             delta = np.concatenate(delta_frame_num*[delta_frame_shift] + [delta_frame_shift[0:max_audio_len - delta_frame_len*delta_frame_num]], axis = 0)
-            
+            delta = delta.astype(np.float64)
             snr = 10*np.log10((np.sum(audios[i, :audio_lengths[i]]**2))/(np.sum(delta[:audio_lengths[i]]**2)))
             audio = delta + audios[i, :]
             
