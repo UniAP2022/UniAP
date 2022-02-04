@@ -31,91 +31,109 @@ https://user-images.githubusercontent.com/97931505/152573763-7d5dcb72-e220-4bd0-
 Transcript: "you took a think you took a there was not in wone family anlong there acquaintidos who had reared and supported of boy accidentally found it their door took a think you took a thinke not thing you wan  the on e man who as arigin was unknowhon yo took a think you took our father had no mor took at think you time ot the squire of de parish couldno children you took a thing".
 
 ### single word containing multiple vowel phonemes 
-Origin audio (xxx in xxx):
+Origin audio (5703-47198-0056 in Librispeech):
 
 
 
-https://user-images.githubusercontent.com/97931505/151703370-bb55ab58-b2cb-4e52-8038-1a9176eee9f0.mov
+https://user-images.githubusercontent.com/97931505/152574625-3e0a07a0-75e1-4cad-940d-7ace8aa7f770.mov
 
 
 
-Transcript: "xxx".
-
-Origin audio + Universal perturbaion (init status: aduliadae, SNR: xxx):
 
 
+Transcript: "scandalized at the idea of such a precious garment being put on before breakfast that very one juliet assured her undaunted and was arrayed in it in spite of obvious disapproval after breakfast they went out".
 
-https://user-images.githubusercontent.com/97931505/151702556-94c92b4d-390d-4457-a642-da426a5c2ba6.mov
+Origin audio + Universal perturbaion (init status: aduliadae, SNR: 23.08):
 
 
 
-Transcript: "i've been others ti influenice o the which to other to me is i has exercised other on besspari tilhere's i been other disduo the cart to each o wo missender spanding others i've".
+
+
+https://user-images.githubusercontent.com/97931505/152574510-cbf93ecb-0bd0-4eff-8856-0f91774efe4c.mov
+
+
+
+
+
+Transcript: "others i've been others iv escered be ros with the ogia an o'm suchor corecious garm a  been in the won in ryfo iy been rit for the hn others i've been benspury in the onemante other ol be other shiven hurt i'm been daing thord been others i've been aml wos or raved the amothers i can sick i om at he onopanyo stos in coter is iv been others i've been other after br e first le ose i dont other".
 
 ### random combination of words containing multiple vowel phonemes
-Origin audio (xxx in xxx):
+Origin audio (7517-100429-0009 in Librispeech):
 
 
 
-https://user-images.githubusercontent.com/97931505/151703379-81e6fc0f-10c1-4869-9f8e-7097c8fcf31d.mov
 
 
 
-Transcript: "xxx".
-
-Origin audio + Universal perturbaion (init status: loiacano aduliadae paperworker, SNR: xxx):
+https://user-images.githubusercontent.com/97931505/152575161-73f8f86c-14f7-4a73-95c5-f9fe21917764.mov
 
 
 
-https://user-images.githubusercontent.com/97931505/151702585-aabf55c9-1008-4663-9826-aa3f17f31abc.mov
+
+Transcript: "has done the damage the soul yearns for something more startling than that the record of the pond".
+
+Origin audio + Universal perturbaion (init status: loiacano aduliadae paperworker, SNR: 25.18):
 
 
 
-Transcript: "and when they we as the skar lat latter weinter nother form when they were come the scar let letter in  dowed when they flyng hm when e
-".
+
+
+https://user-images.githubusercontent.com/97931505/152574965-386865f0-bfbf-4eff-9e5f-fefe39651ddf.mov
+
+
+
+
+Transcript: "ercome when they were compos don me dam age and they were come when they were custol year and was fir some thing when they were commerce startling they on natthey were come when they were come when they were terectord of the pawnd wn they er".
 
 ### single word containing multiple consonant phonemes 
-Origin audio (xxx in xxx):
+Origin audio (5049-25947-0080 in Librispeech):
 
 
 
-https://user-images.githubusercontent.com/97931505/151703393-18b2e71f-ebce-4e19-a70a-8b078365775d.mov
+
+
+https://user-images.githubusercontent.com/97931505/152575370-ff2df804-1b10-4a48-9ef8-b856c95a7a42.mov
 
 
 
-Transcript: "xxx".
-
-Origin audio + Universal perturbaion (init status: investigations, SNR: xxx):
 
 
+Transcript: "as though we were at target practice and an irish sergeant byrne was assisting him by keeping up a continuous flow of comments and criticisms that showed the keenest enjoyment of the situation".
 
-https://user-images.githubusercontent.com/97931505/151702596-dcfd5e56-f3a5-4910-b80d-3785f54f04c8.mov
+Origin audio + Universal perturbaion (init status: investigations, SNR: 22.17):
 
 
 
-Transcript: "to there was given hes isan inti athy lan an intipidly ico nocket all for intere dorices with givento beu made think it o labiness r e don't blame in ee waso".
+https://user-images.githubusercontent.com/97931505/152575337-a35857e7-14e6-4d8b-916e-f0373fd1cb41.mov
+
+
+
+Transcript: "given to ther was goeloely wer rwas gaat they hard it tracutive was given to pand in irish sorganeven to they were earnd ther was given to lose o the sist am him and ligktlya emng out ther was continuous flow of commens and gritouses anvistther was nat show with he acenisty n joying tive ild thet was didtuation a ther was given o".
 
 ### random combination of words containing multiple consonant phonemes
-Origin audio (xxx in xxx):
+Origin audio (3436-172162-0005 in Librispeech):
+
+
+https://user-images.githubusercontent.com/97931505/152575563-8bc3ac70-6ea9-4821-b74b-ddb14a45f4aa.mov
+
+
+Transcript: "so upon the morn they took their horses with the queen and rode a maying in woods and meadows as it pleased them in great joy and delight now there was a knight".
+
+Origin audio + Universal perturbaion (init status: mockingbird investigations, SNR: 26.42):
 
 
 
-https://user-images.githubusercontent.com/97931505/151703405-bd72009d-ca6e-4011-9fc5-211ba7dbf2fa.mov
+
+https://user-images.githubusercontent.com/97931505/152575449-96625f50-5142-4992-80bb-c9bc136fdf1c.mov
 
 
-
-Transcript: "xxx".
-
-Origin audio + Universal perturbaion (init status: mockingbird investigations, SNR: xxx):
-
-https://user-images.githubusercontent.com/97931505/151702603-0f3aef15-98e1-4b72-a825-274fb2822346.mov
-
-Transcript: "one of the takes marg appan you  got it takes ote latics firsiings while the others tereans at taside ob chass one of e day one of the takes one".
+Transcript: "the takes one of the takes one of the telopon the more n they hee their horses an he wit on of the team takes one of the ten road hees whene hunmained hakes kin e rood s in td madows as it wlesing on one of the takes one of the ningrat thejoy and delight akes one of the takes one of the takes one of the tew there was un night".
 
 
 ## over-the-air
 ### chatting scenario
 #### The microphone is on the table
-Origin audio (2961-960-0001 in xxx):
+Origin audio (2961-960-0001 in Librispeech):
 
 https://user-images.githubusercontent.com/97931505/151657475-c06ca5fa-5acb-48c6-a845-c5899a0eb361.mov
 
@@ -128,7 +146,7 @@ https://user-images.githubusercontent.com/97931505/151657491-5e2e5074-e790-4da0-
 Transcript: "to an you have that inluas which hel naer as anerfires the ponpescarity to es do wores wollises wec fanin to you to"
 
 #### The microphone is on the wall
-Origin audio (1320-122617-0037 in xxx):
+Origin audio (1320-122617-0037 in Librispeech):
 
 https://user-images.githubusercontent.com/97931505/151657512-780bf48f-0e56-4699-9a35-c6fac935d370.mov
 
@@ -141,7 +159,7 @@ https://user-images.githubusercontent.com/97931505/151657523-65f4535c-4b04-4025-
 Transcript: "was more tha was more the deliver ons iv ras le eforwadid en ho the den line e cash e fesion ye e shoers his hit fert was"
 
 #### The mocrophone is on the windowstill
-Origin audio (1284-134647-0000 in xxx):
+Origin audio (1284-134647-0000 in Librispeech):
 
 https://user-images.githubusercontent.com/97931505/151657658-fcc3c79b-40f6-4bd8-949f-b50849ad4890.mov
 
@@ -158,7 +176,7 @@ Transcript: "was mor tham with a rad ole balo that ers was o head on as e aze an
 
 https://user-images.githubusercontent.com/97931505/151294873-daee34eb-b221-400c-ad14-e014b18c0e50.mov
 
-Origin audio (2094-142345-0039 in xxx):
+Origin audio (2094-142345-0039 in Librispeech):
 
 https://user-images.githubusercontent.com/97931505/151660153-a2f991e4-bab0-4c27-8ca5-e735d24a3f2d.mov
 
@@ -171,7 +189,7 @@ https://user-images.githubusercontent.com/97931505/151660159-46040e9c-ac2c-40ca-
 Transcript: "was wat e i sar e ser tit olels an ian hee was my hunwold an e soer or mittin the it dot was ore".
 
 ### voice call scenario
-Origin audio (2094-142345-0039 in xxx):
+Origin audio (2094-142345-0039 in Librispeech):
 
 https://user-images.githubusercontent.com/97931505/151660109-20b7d8da-cc33-47bd-bfdd-6cd45b7b3d18.mov
 
