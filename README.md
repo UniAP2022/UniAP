@@ -179,7 +179,7 @@ Transcript: "they would with a they would with a ive strong as suran they spetan
 # Code Usage
 
 1. setup
-  1.
+  1. 
   
   2. get deepspeech and checkpoint
 
@@ -199,10 +199,9 @@ Transcript: "they would with a they would with a ive strong as suran they spetan
     nvidia-docker run -it --name aae -v <yourdir>:/workspace/aae nvcr.io/nvidia/tensorflow:20.10-tf1-py3
     pip3 install progressbar numpy scipy pandas python_speech_features tables attrdict pyxdg ds-ctcdecoder Levenshtein
   4. data preparation 
-     Before generating adversarial perturbation, we should process the data (audios and texts) into 
-     
-     cd /workspace/aae
-     python process_data.py --in <raw_data_dir> --out <processed_data_dir>
+     Before generating adversarial perturbation, we should process the data (audios and texts) into a format that matches the input form of generation procedure.
+      cd /workspace/aae
+      python process_data.py --in <raw_data_dir> --out <processed_data_dir>
      
      The <raw_data_dir> should be originized as three folders, train, dev and test. These folders are futher divided into two folders, namely audio and text, which contains  audio files in wav form with 16 bit depth and 16k sampling rate and their corresponding transcripts. It should be noted audio files and text files need to have the same filename. For more details , we have provided a simple in data/raw. The audio files and text files are selected from Librispeech train-clean-100.
  
