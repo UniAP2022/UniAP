@@ -205,24 +205,23 @@ Transcript: "they would with a they would with a ive strong as suran they spetan
      python process_data.py --in <raw_data_dir> --out <processed_data_dir>
      
      The <raw_data_dir> should be originized as three folders, train, dev and test. These subfolders are futher divided into two folders, namely audio and text
-      >├── dev  
-      >│   ├── audio  
-      >│   │   ├── 19-198-0034.wav  
-      >│   │   ├── 19-198-0035.wav  
-      >│   │   ├── 19-227-0001.wav  
-      >│   │   └── 19-227-0008.wav  
-      >│   └── text  
-      >│       ├── 19-198-0034.txt  
-      >│       ├── 19-198-0035.txt  
-      >│       ├── 19-227-0001.txt  
-      >│       └── 19-227-0008.txt  
-      >├── list.txt  
-      >├── test  
-      >│   ├── audio  
-      >│   │   ├── 19-227-0016.wav
-      >│   │   ├── 19-227-0018.wav
-      >│   │   ├── 19-227-0024.wav
-      >│   │   └── 19-227-0044.wav
+      ├── dev  
+      │   ├── audio  
+      │   │   ├── 19-198-0034.wav  
+      │   │   ├── 19-198-0035.wav  
+      │   │   ├── 19-227-0001.wav  
+      │   │   └── 19-227-0008.wav  
+      │   └── text  
+      │       ├── 19-198-0034.txt  
+      │       ├── 19-198-0035.txt  
+      │       ├── 19-227-0001.txt  
+      │       └── 19-227-0008.txt  
+      ├── test  
+      │   ├── audio  
+      │   │   ├── 19-227-0016.wav
+      │   │   ├── 19-227-0018.wav
+      │   │   ├── 19-227-0024.wav
+      │   │   └── 19-227-0044.wav
       │   └── text  
       │       ├── 19-227-0016.txt  
       │       ├── 19-227-0018.txt  
