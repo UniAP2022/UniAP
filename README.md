@@ -6,22 +6,29 @@ We generate multiple non-targeted UAPs from different initialization status to d
 
 ## digital domain
 ### random combination of sentence starter words 
-Origin audio (xxx in xxx):
+Origin audio 19-198-0034 in Librispeech):
 
 
 
-https://user-images.githubusercontent.com/97931505/151703353-546b6868-4e57-418e-b5d0-f93f575ff3dd.mov
 
 
 
-Transcript: "xxx".
-
-Origin audio + Universal perturbaion (init status: namely considering, SNR: xxx):
-
-https://user-images.githubusercontent.com/97931505/151702647-a2a3d265-2dae-490b-b8e3-9269f02ccce6.mov
+https://user-images.githubusercontent.com/97931505/152574075-a27166b7-1052-492a-a302-31c7e3034eeb.mov
 
 
-Transcript: "took a gave him a little brandy and left him collapsed in a chair will i ate hamost careful examination of the room you took".
+
+
+
+Transcript: "there was not one family among their acquaintance who had reared and supported a boy accidentally found at their door not one young man whose origin was unknown her father had no ward and the squire of the parish no children".
+
+Origin audio + Universal perturbaion (init status: namely considering, SNR: 24.52):
+
+
+
+https://user-images.githubusercontent.com/97931505/152573763-7d5dcb72-e220-4bd0-bbfb-9f8f51a9f0ff.mov
+
+
+Transcript: "you took a think you took a there was not in wone family anlong there acquaintidos who had reared and supported of boy accidentally found it their door took a think you took a thinke not thing you wan  the on e man who as arigin was unknowhon yo took a think you took our father had no mor took at think you time ot the squire of de parish couldno children you took a thing".
 
 ### single word containing multiple vowel phonemes 
 Origin audio (xxx in xxx):
