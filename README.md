@@ -176,10 +176,12 @@ https://user-images.githubusercontent.com/97931505/151660115-c083fec5-1e7a-4d00-
 
 Transcript: "they would with a they would with a ive strong as suran they spetan no egil wit had the te you and my own cold ind the children fermany ley nifeve dones they would". 
 
-# Code
+# Code Usage
 
 1. setup
-  1. get deepspeech and checkpoint
+  1.
+  
+  2. get deepspeech and checkpoint
 
     git clone https://github.com/mozilla/DeepSpeech.git
     cd DeepSpeech
@@ -189,14 +191,22 @@ Transcript: "they would with a they would with a ive strong as suran they spetan
     tar -xzf deepspeech-0.4.1-checkpoint.tar.gz
     
     
-  2. docker image setup
+  3. docker image setup
     Pull the docker image and start it. 
     
     
     docker pull nvcr.io/nvidia/tensorflow:20.10-tf1-py3
     nvidia-docker run -it --name aae -v <yourdir>:/workspace/aae nvcr.io/nvidia/tensorflow:20.10-tf1-py3
     pip3 install progressbar numpy scipy pandas python_speech_features tables attrdict pyxdg ds-ctcdecoder Levenshtein
-    
+  4. data preparation 
+     Before generating adversarial perturbation, we should process the data (audios and texts) into 
+   
+     cd /workspace/aae
+     python process_data.py --in <raw_data_dir> --out <processed_data_dir>
+     
+     The <raw_data_dir> should be originized as three folders, train, dev and test. These subfolders are futher divided into two folders, namely audio and text
+     
+     
 # Nontice
   Most of the code in this repo is based on https://github.com/carlini/audio_adversarial_examples. 
     
