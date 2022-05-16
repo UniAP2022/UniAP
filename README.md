@@ -25,7 +25,11 @@ Origin audio + Universal perturbaion (init status: namely considering, SNR: 24.5
 
 
 
-https://user-images.githubusercontent.com/97931505/152573763-7d5dcb72-e220-4bd0-bbfb-9f8f51a9f0ff.mov
+
+
+https://user-images.githubusercontent.com/97931505/168588523-d3b5ebb4-35eb-403e-9b7b-acb477c7cc12.mov
+
+
 
 
 Transcript: "you took a think you took a there was not in wone family anlong there acquaintidos who had reared and supported of boy accidentally found it their door took a think you took a thinke not thing you wan  the on e man who as arigin was unknowhon yo took a think you took our father had no mor took at think you time ot the squire of de parish couldno children you took a thing".
@@ -49,7 +53,11 @@ Origin audio + Universal perturbaion (init status: aduliadae, SNR: 23.08):
 
 
 
-https://user-images.githubusercontent.com/97931505/152574510-cbf93ecb-0bd0-4eff-8856-0f91774efe4c.mov
+
+
+https://user-images.githubusercontent.com/97931505/168588566-1f4d7689-9842-4592-9b35-d505328bf81c.mov
+
+
 
 
 
@@ -78,7 +86,10 @@ Origin audio + Universal perturbaion (init status: loiacano aduliadae paperworke
 
 
 
-https://user-images.githubusercontent.com/97931505/152574965-386865f0-bfbf-4eff-9e5f-fefe39651ddf.mov
+https://user-images.githubusercontent.com/97931505/168588603-30e70605-5b50-4dcb-a052-0d876c489004.mov
+
+
+
 
 
 
@@ -104,7 +115,11 @@ Origin audio + Universal perturbaion (init status: investigations, SNR: 22.17):
 
 
 
-https://user-images.githubusercontent.com/97931505/152575337-a35857e7-14e6-4d8b-916e-f0373fd1cb41.mov
+
+
+https://user-images.githubusercontent.com/97931505/168588639-ef2e26a7-955a-4236-b284-5af33cb6e457.mov
+
+
 
 
 
@@ -124,7 +139,11 @@ Origin audio + Universal perturbaion (init status: mockingbird investigations, S
 
 
 
-https://user-images.githubusercontent.com/97931505/152575449-96625f50-5142-4992-80bb-c9bc136fdf1c.mov
+
+https://user-images.githubusercontent.com/97931505/168588686-6a114ecc-962a-47c1-8646-69930c7a6617.mov
+
+
+
 
 
 Transcript: "the takes one of the takes one of the telopon the more n they hee their horses an he wit on of the team takes one of the ten road hees whene hunmained hakes kin e rood s in td madows as it wlesing on one of the takes one of the ningrat thejoy and delight akes one of the takes one of the takes one of the tew there was un night".
