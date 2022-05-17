@@ -36,7 +36,7 @@ https://user-images.githubusercontent.com/97931505/168715163-c8d7760f-e848-4ec1-
 
 
 
-Transcript: "you took a think you took a there was not in wone family anlong there acquaintidos who had reared and supported of boy accidentally found it their door took a think you took a thinke not thing you wan  the on e man who as arigin was unknowhon yo took a think you took our father had no mor took at think you time ot the squire of de parish couldno children you took a thing".
+Transcript: "uldn't from they would new as not win family among  their acquaintant roh scho had t reared and some ported an they accidentally found at vendorm an they wouldn't from they wouldn't not onrun young than whose arigen was on knoone from they wouldn't from the carfather had now thy ware an they wouldn't from and at the squired of the parish we now children  from they wouldn't".
 
 ### single word containing multiple vowel phonemes 
 Origin audio (5703-47198-0056 in Librispeech):
@@ -58,19 +58,12 @@ Origin audio + Universal perturbaion (init status: aduliadae, SNR: 22.80):
 
 
 
-
-
-
 https://user-images.githubusercontent.com/97931505/168715252-e7e7c0b3-1eb5-4f48-b3ac-cbbefe568c36.mov
 
 
 
 
-
-
-
-
-Transcript: "others i've been others iv escered be ros with the ogia an o'm suchor corecious garm a  been in the won in ryfo iy been rit for the hn others i've been benspury in the onemante other ol be other shiven hurt i'm been daing thord been others i've been aml wos or raved the amothers i can sick i om at he onopanyo stos in coter is iv been others i've been other after br e first le ose i dont other".
+Transcript: "the other plank of skindalrose than the oveia round sucaly a recious grment of the onther guonanian  fling of the ro plentoy other plank of the upler in the one on the other to of the other churan her upon in the antod of the other plack of the enewas or rave in a the plican supplid them ith on of the other slus an o the rillng of the other plank of the other catheron lar cloce t tey one aly other".
 
 ### random combination of words containing multiple vowel phonemes
 Origin audio (7517-100429-0009 in Librispeech):
@@ -105,7 +98,7 @@ https://user-images.githubusercontent.com/97931505/168715770-f2368fc9-6921-4659-
 
 
 
-Transcript: "ercome when they were compos don me dam age and they were come when they were custol year and was fir some thing when they were commerce startling they on natthey were come when they were come when they were terectord of the pawnd wn they er".
+Transcript: "only to post down in the damn ance you only to let you only to assoull yo yeur n his first some thing with you only tours startle in none do hat lik to let you only to let you only tirectrt of the pand ou ol".
 
 ### single word containing multiple consonant phonemes 
 Origin audio (5049-25947-0080 in Librispeech):
@@ -138,7 +131,7 @@ https://user-images.githubusercontent.com/97931505/168715798-30b025f6-a780-4381-
 
 
 
-Transcript: "given to ther was goeloely wer rwas gaat they hard it tracutive was given to pand in irish sorganeven to they were earnd ther was given to lose o the sist am him and ligktlya emng out ther was continuous flow of commens and gritouses anvistther was nat show with he acenisty n joying tive ild thet was didtuation a ther was given o".
+Transcript: "uld have olo neler of bad par net he raftive have what he manded irish largein what he would hearn would have what he was the sisty we him of by healy wave in continuous flow of omment he would hear ousthat was he would have atshuwed himc enes to ujoyme a would has what yeash  he would have what h".
 
 ### random combination of words containing multiple consonant phonemes
 Origin audio (3436-172162-0005 in Librispeech):
@@ -165,7 +158,7 @@ https://user-images.githubusercontent.com/97931505/168716044-a95f82f9-a917-48dd-
 
 
 
-Transcript: "the takes one of the takes one of the telopon the more n they hee their horses an he wit on of the team takes one of the ten road hees whene hunmained hakes kin e rood s in td madows as it wlesing on one of the takes one of the ningrat thejoy and delight akes one of the takes one of the takes one of the tew there was un night".
+Transcript: "in they held them in they saw upon the mord thayed took their horsehes wwimenly helmen im help them in they had roawed them an unmanig old the ini oer anc an y meatows as if pleased  them in they helpd them in the in great that yoy and delight help them in they held them in they helpd them in they ano their was u night ti".
 
 ### random-chunk UAP
 Origin audio (1363-135842-0022 in Librispeech):
@@ -180,7 +173,7 @@ Origin audio + Universal perturbaion (random-chunk, SNR:  30.18):
 
 https://user-images.githubusercontent.com/97931505/168720955-5fb8a794-a975-4399-affb-50750f60c226.mov
 
-Transcript: "".
+Transcript: "the help in for a gut intol the riht he his hair be through tham n the hat the pointed every wich way would have ling with in aflick of the otheas le lags he would dar when think you took his with he would be glad the other thing you tened his cos would mi ly would have what he would have for the morning ame as fears tho here without  any hair at all ther the for the".
 
 ## over-the-air
 ### chatting scenario
