@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/97931505/152574075-a27166b7-1052-492a-
 
 
 
-Transcript: "there was not one family among their acquaintance who had reared and supported a boy accidentally found at their door not one young man whose origin was unknown her father had no ward and the squire of the parish no children".
+Ground truth: "there was not one family among their acquaintance who had reared and supported a boy accidentally found at their door not one young man whose origin was unknown her father had no ward and the squire of the parish no children".
 
 Origin audio + Universal perturbaion (init status: especially namely furthermore, SNR: 24.47):
 
@@ -49,7 +49,7 @@ https://user-images.githubusercontent.com/97931505/152574625-3e0a07a0-75e1-4cad-
 
 
 
-Transcript: "scandalized at the idea of such a precious garment being put on before breakfast that very one juliet assured her undaunted and was arrayed in it in spite of obvious disapproval after breakfast they went out".
+Ground truth: "scandalized at the idea of such a precious garment being put on before breakfast that very one juliet assured her undaunted and was arrayed in it in spite of obvious disapproval after breakfast they went out".
 
 Origin audio + Universal perturbaion (init status: aduliadae, SNR: 22.80):
 
@@ -78,7 +78,7 @@ https://user-images.githubusercontent.com/97931505/152575161-73f8f86c-14f7-4a73-
 
 
 
-Transcript: "has done the damage the soul yearns for something more startling than that the record of the pond".
+Ground truth: "has done the damage the soul yearns for something more startling than that the record of the pond".
 
 Origin audio + Universal perturbaion (init status: kobayashi odonohue, SNR: 25.16):
 
@@ -113,7 +113,7 @@ https://user-images.githubusercontent.com/97931505/152575370-ff2df804-1b10-4a48-
 
 
 
-Transcript: "as though we were at target practice and an irish sergeant byrne was assisting him by keeping up a continuous flow of comments and criticisms that showed the keenest enjoyment of the situation".
+Ground truth: "as though we were at target practice and an irish sergeant byrne was assisting him by keeping up a continuous flow of comments and criticisms that showed the keenest enjoyment of the situation".
 
 Origin audio + Universal perturbaion (init status: mockingbird, SNR: 21.12):
 
@@ -140,7 +140,7 @@ Origin audio (3436-172162-0005 in Librispeech):
 https://user-images.githubusercontent.com/97931505/152575563-8bc3ac70-6ea9-4821-b74b-ddb14a45f4aa.mov
 
 
-Transcript: "so upon the morn they took their horses with the queen and rode a maying in woods and meadows as it pleased them in great joy and delight now there was a knight".
+Ground truth: "so upon the morn they took their horses with the queen and rode a maying in woods and meadows as it pleased them in great joy and delight now there was a knight".
 
 Origin audio + Universal perturbaion (init status: investigations rosenboom mockingbird, SNR:  26.42):
 
@@ -166,7 +166,7 @@ Origin audio (1363-135842-0022 in Librispeech):
 
 https://user-images.githubusercontent.com/97931505/168720913-6a396729-3553-4263-a8cd-166c93d25064.mov
 
-Transcript: "and forgotten to brush his hair it pointed every which way his legs were dark his feet black and his toes white his ears were without any hair at all".
+Ground truth: "and forgotten to brush his hair it pointed every which way his legs were dark his feet black and his toes white his ears were without any hair at all".
 
 Origin audio + Universal perturbaion (random-chunk, SNR:  30.18):
 
@@ -182,7 +182,7 @@ Origin audio (2961-960-0001 in Librispeech):
 
 https://user-images.githubusercontent.com/97931505/151657475-c06ca5fa-5acb-48c6-a845-c5899a0eb361.mov
 
-Transcript: "the influence with the timaeus has exercised upon posterity is due partly to a misunderstanding"
+Ground truth: "the influence with the timaeus has exercised upon posterity is due partly to a misunderstanding"
 
 Origin audio + Universal perturbaion (init status: kobayashi_loiacano, SNR: 42.21dB):
 
@@ -195,7 +195,7 @@ Origin audio (1320-122617-0037 in Librispeech):
 
 https://user-images.githubusercontent.com/97931505/151657512-780bf48f-0e56-4699-9a35-c6fac935d370.mov
 
-Transcript: "the delaware dog he said leaning forward and peering through the dim light to catch the expression of the other's features is he afraid"
+Ground truth: "the delaware dog he said leaning forward and peering through the dim light to catch the expression of the other's features is he afraid"
 
 Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.11dB):
 
@@ -208,7 +208,7 @@ Origin audio (1284-134647-0000 in Librispeech):
 
 https://user-images.githubusercontent.com/97931505/151657658-fcc3c79b-40f6-4bd8-949f-b50849ad4890.mov
 
-Transcript: "the grateful applause of the clergy has consecrated the memory of a prince who indulged their passions and promoted their interest"
+Ground truth: "the grateful applause of the clergy has consecrated the memory of a prince who indulged their passions and promoted their interest"
 
 Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.11dB):
 
@@ -225,7 +225,7 @@ Origin audio (2094-142345-0039 in Librispeech):
 
 https://user-images.githubusercontent.com/97931505/151660153-a2f991e4-bab0-4c27-8ca5-e735d24a3f2d.mov
 
-Transcript: "i've strong assurance that no evil will happen to you and my uncle and the children from anything i've done"
+Ground truth: "i've strong assurance that no evil will happen to you and my uncle and the children from anything i've done"
 
 Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.71dB):
 
@@ -238,7 +238,7 @@ Origin audio (2094-142345-0039 in Librispeech):
 
 https://user-images.githubusercontent.com/97931505/151660109-20b7d8da-cc33-47bd-bfdd-6cd45b7b3d18.mov
 
-Transcript: "i've strong assurance that no evil will happen to you and my uncle and the children from anything i've done".
+Ground truth: "i've strong assurance that no evil will happen to you and my uncle and the children from anything i've done".
 
 Origin audio + Universal perturbaion (init status: underplayed_conclusions_flextronic, SNR1: 48.21, SNR2: 31.51dB):
 
