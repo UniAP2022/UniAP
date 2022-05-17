@@ -21,13 +21,17 @@ https://user-images.githubusercontent.com/97931505/152574075-a27166b7-1052-492a-
 
 Transcript: "there was not one family among their acquaintance who had reared and supported a boy accidentally found at their door not one young man whose origin was unknown her father had no ward and the squire of the parish no children".
 
-Origin audio + Universal perturbaion (init status: namely considering, SNR: 24.52):
+Origin audio + Universal perturbaion (init status: especially namely furthermore, SNR: 24.47):
 
 
 
 
 
-https://user-images.githubusercontent.com/97931505/168588523-d3b5ebb4-35eb-403e-9b7b-acb477c7cc12.mov
+
+https://user-images.githubusercontent.com/97931505/168715163-c8d7760f-e848-4ec1-b2f0-e92ce8eb9362.mov
+
+
+
 
 
 
@@ -47,7 +51,7 @@ https://user-images.githubusercontent.com/97931505/152574625-3e0a07a0-75e1-4cad-
 
 Transcript: "scandalized at the idea of such a precious garment being put on before breakfast that very one juliet assured her undaunted and was arrayed in it in spite of obvious disapproval after breakfast they went out".
 
-Origin audio + Universal perturbaion (init status: aduliadae, SNR: 23.08):
+Origin audio + Universal perturbaion (init status: aduliadae, SNR: 22.80):
 
 
 
@@ -55,7 +59,10 @@ Origin audio + Universal perturbaion (init status: aduliadae, SNR: 23.08):
 
 
 
-https://user-images.githubusercontent.com/97931505/168588566-1f4d7689-9842-4592-9b35-d505328bf81c.mov
+
+
+https://user-images.githubusercontent.com/97931505/168715252-e7e7c0b3-1eb5-4f48-b3ac-cbbefe568c36.mov
+
 
 
 
@@ -80,13 +87,17 @@ https://user-images.githubusercontent.com/97931505/152575161-73f8f86c-14f7-4a73-
 
 Transcript: "has done the damage the soul yearns for something more startling than that the record of the pond".
 
-Origin audio + Universal perturbaion (init status: loiacano aduliadae paperworker, SNR: 25.18):
+Origin audio + Universal perturbaion (init status: kobayashi odonohue, SNR: 25.16):
 
 
 
 
 
-https://user-images.githubusercontent.com/97931505/168588603-30e70605-5b50-4dcb-a052-0d876c489004.mov
+
+
+
+https://user-images.githubusercontent.com/97931505/168715770-f2368fc9-6921-4659-b004-9e008692eba8.mov
+
 
 
 
@@ -111,13 +122,17 @@ https://user-images.githubusercontent.com/97931505/152575370-ff2df804-1b10-4a48-
 
 Transcript: "as though we were at target practice and an irish sergeant byrne was assisting him by keeping up a continuous flow of comments and criticisms that showed the keenest enjoyment of the situation".
 
-Origin audio + Universal perturbaion (init status: investigations, SNR: 22.17):
+Origin audio + Universal perturbaion (init status: mockingbird, SNR: 21.12):
 
 
 
 
 
-https://user-images.githubusercontent.com/97931505/168588639-ef2e26a7-955a-4236-b284-5af33cb6e457.mov
+
+
+https://user-images.githubusercontent.com/97931505/168715798-30b025f6-a780-4381-af6c-2373c0101cab.mov
+
+
 
 
 
@@ -134,13 +149,17 @@ https://user-images.githubusercontent.com/97931505/152575563-8bc3ac70-6ea9-4821-
 
 Transcript: "so upon the morn they took their horses with the queen and rode a maying in woods and meadows as it pleased them in great joy and delight now there was a knight".
 
-Origin audio + Universal perturbaion (init status: mockingbird investigations, SNR: 26.42):
+Origin audio + Universal perturbaion (init status: investigations rosenboom mockingbird, SNR:  26.42):
 
 
 
 
 
-https://user-images.githubusercontent.com/97931505/168588686-6a114ecc-962a-47c1-8646-69930c7a6617.mov
+
+
+https://user-images.githubusercontent.com/97931505/168716044-a95f82f9-a917-48dd-8a3a-40cb50c3b9eb.mov
+
+
 
 
 
