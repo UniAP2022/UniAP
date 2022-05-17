@@ -167,6 +167,20 @@ https://user-images.githubusercontent.com/97931505/168716044-a95f82f9-a917-48dd-
 
 Transcript: "the takes one of the takes one of the telopon the more n they hee their horses an he wit on of the team takes one of the ten road hees whene hunmained hakes kin e rood s in td madows as it wlesing on one of the takes one of the ningrat thejoy and delight akes one of the takes one of the takes one of the tew there was un night".
 
+### random-chunk UAP
+Origin audio (1363-135842-0022 in Librispeech):
+
+
+https://user-images.githubusercontent.com/97931505/168720913-6a396729-3553-4263-a8cd-166c93d25064.mov
+
+Transcript: "and forgotten to brush his hair it pointed every which way his legs were dark his feet black and his toes white his ears were without any hair at all".
+
+Origin audio + Universal perturbaion (random-chunk, SNR:  30.18):
+
+
+https://user-images.githubusercontent.com/97931505/168720955-5fb8a794-a975-4399-affb-50750f60c226.mov
+
+Transcript: "".
 
 ## over-the-air
 ### chatting scenario
