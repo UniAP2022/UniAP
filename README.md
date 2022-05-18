@@ -177,7 +177,7 @@ Transcript: "the help in for a gut intol the riht he his hair be through tham n 
 
 ## over-the-air
 ### chatting scenario
-#### The microphone is on the table
+#### UMD = 1m, JMD = 1m
 Origin audio (2961-960-0001 in Librispeech):
 
 https://user-images.githubusercontent.com/97931505/151657475-c06ca5fa-5acb-48c6-a845-c5899a0eb361.mov
@@ -190,7 +190,7 @@ https://user-images.githubusercontent.com/97931505/151657491-5e2e5074-e790-4da0-
 
 Transcript: "to an you have that inluas which hel naer as anerfires the ponpescarity to es do wores wollises wec fanin to you to"
 
-#### The microphone is on the wall
+#### UMD = 4m, JMD = 4m
 Origin audio (1320-122617-0037 in Librispeech):
 
 https://user-images.githubusercontent.com/97931505/151657512-780bf48f-0e56-4699-9a35-c6fac935d370.mov
@@ -203,7 +203,7 @@ https://user-images.githubusercontent.com/97931505/151657523-65f4535c-4b04-4025-
 
 Transcript: "was more tha was more the deliver ons iv ras le eforwadid en ho the den line e cash e fesion ye e shoers his hit fert was"
 
-#### The mocrophone is on the windowstill
+#### UMD = 0m, JMD = 1m
 Origin audio (1284-134647-0000 in Librispeech):
 
 https://user-images.githubusercontent.com/97931505/151657658-fcc3c79b-40f6-4bd8-949f-b50849ad4890.mov
@@ -216,7 +216,7 @@ https://user-images.githubusercontent.com/97931505/151657663-7a936445-c904-4fcf-
 
 Transcript: "was mor tham with a rad ole balo that ers was o head on as e aze an medary os creates was lose olst es hatas wit ad e noe ities fo was"
 
-#### chatting while walking
+#### UMD = 0m, JMD = 4m
 ![walking_scenario_mosaic](https://user-images.githubusercontent.com/97931505/151647536-1fce9d39-9ab7-4faf-bed5-78c2ee735ac4.png)
 
 https://user-images.githubusercontent.com/97931505/151294873-daee34eb-b221-400c-ad14-e014b18c0e50.mov
