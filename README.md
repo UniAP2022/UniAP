@@ -24,6 +24,8 @@ https://user-images.githubusercontent.com/97931505/152574075-a27166b7-1052-492a-
 
 Ground truth: "there was not one family among their acquaintance who had reared and supported a boy accidentally found at their door not one young man whose origin was unknown her father had no ward and the squire of the parish no children".
 
+Transcript: "there was not one family among their acquaintance who had reared and supported a boy excidentally found at their door not one young man whose arigin was unknown her father had no ward and the squire of the parish no children".
+
 Origin audio + Universal perturbaion (init status: especially namely furthermore, SNR: 24.47dB):
 
 
@@ -54,6 +56,8 @@ https://user-images.githubusercontent.com/97931505/152574625-3e0a07a0-75e1-4cad-
 
 Ground truth: "scandalized at the idea of such a precious garment being put on before breakfast that very one juliet assured her undaunted and was arrayed in it in spite of obvious disapproval after breakfast they went out".
 
+Transcript: "skindalised at the idea of such a precious garment being put on before breakfast that bery one duliet asured her undaunted and was a rayed in it in spite of obvious disabroval after breakfast they went out".
+
 Origin audio + Universal perturbaion (init status: aduliadae, SNR: 22.80):
 
 
@@ -83,10 +87,9 @@ https://user-images.githubusercontent.com/97931505/152575161-73f8f86c-14f7-4a73-
 
 Ground truth: "has done the damage the soul yearns for something more startling than that the record of the pond".
 
+Transcript: "has done the damage the sol yearns for something more startling than that the record of the pond".
+
 Origin audio + Universal perturbaion (init status: kobayashi odonohue, SNR: 25.16dB):
-
-
-
 
 
 
@@ -95,43 +98,23 @@ Origin audio + Universal perturbaion (init status: kobayashi odonohue, SNR: 25.1
 https://user-images.githubusercontent.com/97931505/168715770-f2368fc9-6921-4659-b004-9e008692eba8.mov
 
 
-
-
-
-
-
-
 Transcript: "only to post down in the damn ance you only to let you only to assoull yo yeur n his first some thing with you only tours startle in none do hat lik to let you only to let you only tirectrt of the pand ou ol".
 
 ### single word containing multiple consonant phonemes 
 Origin audio (5049-25947-0080 in Librispeech):
 
 
-
-
-
 https://user-images.githubusercontent.com/97931505/152575370-ff2df804-1b10-4a48-9ef8-b856c95a7a42.mov
-
-
-
 
 
 Ground truth: "as though we were at target practice and an irish sergeant byrne was assisting him by keeping up a continuous flow of comments and criticisms that showed the keenest enjoyment of the situation".
 
+Transcript: "as though we were at target practice and in irish sargeant burn was the sisting him by keeping up ha continuous flow of comments an criticisms that showed the keenest injoyment of thi siuation".
+
 Origin audio + Universal perturbaion (init status: mockingbird, SNR: 21.12dB):
 
 
-
-
-
-
-
 https://user-images.githubusercontent.com/97931505/168715798-30b025f6-a780-4381-af6c-2373c0101cab.mov
-
-
-
-
-
 
 
 Transcript: "uld have olo neler of bad par net he raftive have what he manded irish largein what he would hearn would have what he was the sisty we him of by healy wave in continuous flow of omment he would hear ousthat was he would have atshuwed himc enes to ujoyme a would has what yeash  he would have what h".
@@ -145,20 +128,12 @@ https://user-images.githubusercontent.com/97931505/152575563-8bc3ac70-6ea9-4821-
 
 Ground truth: "so upon the morn they took their horses with the queen and rode a maying in woods and meadows as it pleased them in great joy and delight now there was a knight".
 
+Transcript: "so upon the more they took their horses withe the queen and rode a maing in woods and meadows as it pleased them in great joy and delight now there was a night".
+
 Origin audio + Universal perturbaion (init status: investigations rosenboom mockingbird, SNR:  26.42dB):
 
 
-
-
-
-
-
 https://user-images.githubusercontent.com/97931505/168716044-a95f82f9-a917-48dd-8a3a-40cb50c3b9eb.mov
-
-
-
-
-
 
 
 Transcript: "in they held them in they saw upon the mord thayed took their horsehes wwimenly helmen im help them in they had roawed them an unmanig old the ini oer anc an y meatows as if pleased  them in they helpd them in the in great that yoy and delight help them in they held them in they helpd them in they ano their was u night ti".
@@ -170,6 +145,9 @@ Origin audio (1363-135842-0022 in Librispeech):
 https://user-images.githubusercontent.com/97931505/168720913-6a396729-3553-4263-a8cd-166c93d25064.mov
 
 Ground truth: "and forgotten to brush his hair it pointed every which way his legs were dark his feet black and his toes white his ears were without any hair at all".
+
+Transcript: "and forgotten to brush his hair it pointed every which way his legs were dark his feet black and his toes white his ears were without any hair at all
+".
 
 Origin audio + Universal perturbaion (random-chunk, SNR:  30.18dB):
 
