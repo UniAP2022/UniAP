@@ -260,7 +260,7 @@ Transcript: "u for they were  take t with his ledelo were dog he say we ma forwa
 
 ### voice call scenario
 
-In the chatting scenario, we provide audio examples of both louder perturbation(L) and quieter perturbation(Q). Distortion level1 is measured at the transmitter and Distortion level2 is measured at the receiver.
+In the chatting scenario, we provide audio examples of both louder perturbation(L) and quieter perturbation(Q). Distortion level1 is measured at the location of transmitter and Distortion level2 is measured at the location of receiver.
 
 Origin audio (2961-960-0001 in Librispeech):
 
