@@ -192,20 +192,17 @@ Transcript: "it was the scar of letter in hanother form the scar ed letter in do
 Origin audio + Universal perturbaion (init status: kobayashi_loiacano, SNR: 42.21dB):
 
 
+https://user-images.githubusercontent.com/97931505/168981050-e6b28fba-e6a7-4352-a471-576eaabde09a.mov
 
 
 
-
-
-Transcript: "to an you have that inluas which hel naer as anerfires the ponpescarity to es do wores wollises wec fanin to you to"
+Transcript: "take with his wo t at es e scards flatter as interele fil butk o the a far that letter as  dou h his life theyl".
 
 #### UMD = 4m, JMD = 4m
 Origin audio (1320-122617-0037 in Librispeech):
 
 
-
 https://user-images.githubusercontent.com/97931505/168979812-fb4d691a-20fe-4959-81e7-46dff6aa9121.mov
-
 
 
 Ground truth: "the grateful applause of the clergy has consecrated the memory of a prince who indulged their passions and promoted their interest".
@@ -213,9 +210,15 @@ Transcript: "the greateful flaws of the clerity has cauneecrated the memory of a
 
 Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.11dB):
 
-https://user-images.githubusercontent.com/97931505/151657523-65f4535c-4b04-4025-ab53-b5452d73c888.mov
 
-Transcript: "was more tha was more the deliver ons iv ras le eforwadid en ho the den line e cash e fesion ye e shoers his hit fert was"
+
+
+https://user-images.githubusercontent.com/97931505/168981099-a76626e2-b2e6-4771-9f7e-5d3f19c1e028.mov
+
+
+
+
+Transcript: "wut is rison n for the ratful douses aclergey on the poscositrateds and mouas his trin singue tocal induly mintachi god through the and permiliis ther on to re leu ws".
 
 #### UMD = 0m, JMD = 1m
 Origin audio (1284-134647-0000 in Librispeech):
@@ -232,9 +235,12 @@ Transcript:  "there jap you'v cot it laughed fircy while the other spreamed at t
 
 Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.11dB):
 
-https://user-images.githubusercontent.com/97931505/151657663-7a936445-c904-4fcf-adc2-6020cf9e7846.mov
 
-Transcript: "was mor tham with a rad ole balo that ers was o head on as e aze an medary os creates was lose olst es hatas wit ad e noe ities fo was"
+
+https://user-images.githubusercontent.com/97931505/168981156-8820f44d-a865-49d0-806b-7b47d1d52af1.mov
+
+
+Transcript: "i  the other tair jaftes cothis s re lagh wir he ol clallty others sreem bat e cesteve jasp bes mamed".
 
 #### UMD = 0m, JMD = 4m
 ![walking_scenario_mosaic](https://user-images.githubusercontent.com/97931505/151647536-1fce9d39-9ab7-4faf-bed5-78c2ee735ac4.png)
@@ -253,9 +259,13 @@ Transcript: "des the head of a parot of the little flowering he seat from a pict
 
 Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.71dB):
 
-https://user-images.githubusercontent.com/97931505/151660159-46040e9c-ac2c-40ca-92c6-1ea21c0826bc.mov
 
-Transcript: "was wat e i sar e ser tit olels an ian hee was my hunwold an e soer or mittin the it dot was ore".
+
+https://user-images.githubusercontent.com/97931505/168981206-081481c9-7c3e-4bae-a7a7-9164e58104e4.mov
+
+
+
+Transcript: "goo the heado mareth othe loaflolly is be it fron e fitule take osyous they af them i forther seriously de lighte sane re as".
 
 ### voice call scenario
 Origin audio (2094-142345-0039 in Librispeech):
