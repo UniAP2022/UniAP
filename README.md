@@ -186,6 +186,7 @@ https://user-images.githubusercontent.com/97931505/168979733-4554c11e-36cf-41ee-
 
 
 Ground truth: "it was the scarlet letter in another form the scarlet letter endowed with life".
+
 Transcript: "it was the scar of letter in hanother form the scar ed letter in dowled with lighes".
 
 
@@ -214,6 +215,7 @@ https://user-images.githubusercontent.com/97931505/168983698-4369214e-f6c5-4bc7-
 
 
 Ground truth: "the grateful applause of the clergy has consecrated the memory of a prince who indulged their passions and promoted their interest".
+
 Transcript: "the greateful flaws of the clerity has cauneecrated the memory of a crince who andulged their passes and promoted their interest".
 
 Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.11dB):
@@ -238,6 +240,7 @@ https://user-images.githubusercontent.com/97931505/168979862-66a6b56d-5d34-4773-
 
 
 Ground truth: "there jap you've caught it laughed percy while the others screamed at the sight of jasper's face".
+
 Transcript:  "there jap you'v cot it laughed fircy while the other spreamed at the sigde of jaskes face".
 
 
@@ -263,6 +266,7 @@ https://user-images.githubusercontent.com/97931505/168979955-154633a4-a575-4fc9-
 
 
 Ground truth: "it is the head of a parrot with a little flower in his beak from a picture of carpaccio's one of his series of the life of saint george".
+
 Transcript: "des the head of a parot of the little flowering he seat from a pictureof propotious one of his series of the life of santjurge".
 
 Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.71dB):
