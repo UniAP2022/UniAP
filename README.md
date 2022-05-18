@@ -260,7 +260,7 @@ Transcript: "u for they were  take t with his ledelo were dog he say we ma forwa
 
 ### voice call scenario
 
-In the chatting scenario, we provide audio examples of both louder perturbation(L) and quieter perturbation(Q).  
+In the chatting scenario, we provide audio examples of both louder perturbation(L) and quieter perturbation(Q). Here we utilize distortion level to measure the noise-signal ratio. Distortion level1 is measured at the transmitter and Distortion level2 is measured at the receiver.
 
 Origin audio (2961-960-0001 in Librispeech):
 
@@ -272,7 +272,7 @@ Ground truth: "the influence with the timaeus has exercised upon posterity is du
 
 Transcript: "at the influence which the to me us has ex recised the pon desterity is duehartly to a misenderstanding".
 
-Origin audio + Universal perturbaion (Q, random-chunk, SNR1: 46.07dB, SNR2: 31.3dB):
+Origin audio + Universal perturbaion (Q, random-chunk, distortion level1: -46.07dB, distortion level2: -31.3dB):
 
 
 https://user-images.githubusercontent.com/97931505/168986645-1161b7a8-ef9b-49ac-a376-ca63b7c57314.mov
@@ -280,7 +280,7 @@ https://user-images.githubusercontent.com/97931505/168986645-1161b7a8-ef9b-49ac-
 
 Transcript: "prob wold be thorgh them but influlers which no to ne is has es recised the pontes perity from they would misdobe hards re to a misular standing". 
 
-Origin audio + Universal perturbaion (L, random-chunk, SNR1: 44.97dB, SNR2: 22.9dB):
+Origin audio + Universal perturbaion (L, random-chunk, distortion level1: -44.97dB, distortion level2: -22.9dB):
 
 
 https://user-images.githubusercontent.com/97931505/168986668-9f34bdcf-b50b-4e96-8a31-436f701f097f.mov
