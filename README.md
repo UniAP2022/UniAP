@@ -1,5 +1,5 @@
 # UniAP
-This is the code corresponding to the paper "UniAP: Protect Speech Privacy with Non-targeted Universal Adversarial Perturbations"
+This is the audio examples corresponding to the paper "UniAP: Protect Speech Privacy with Non-targeted Universal Adversarial Perturbations"
 
 
 
