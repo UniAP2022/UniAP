@@ -259,6 +259,7 @@ Transcript: "goo the heado mareth othe loaflolly is be it fron e fitule take osy
 
 ### voice call scenario
 
+In the chatting scenario, we provide audio examples of both louder perturbation(L) and quieter perturbation(Q).  
 
 Origin audio (2961-960-0001 in Librispeech):
 
