@@ -180,11 +180,11 @@ Transcript: "the help in for a gut intol the riht he his hair be through tham n 
 
 ## over-the-air
 
-
+We provide the random-chunk UAPs without over-the-air enhancement. All the given transcript are the output of the robust DeepSpeech.
 
 ### chatting scenario
 
-In the 
+In the chatting scenario, we provide audio examples of four different locations.  
 
 #### UMD = 1m, JMD = 1m
 Origin audio (1221-135767-0005 in Librispeech):
@@ -203,7 +203,6 @@ Origin audio + Universal perturbaion (random-chunk, SNR: 42.21dB):
 
 
 https://user-images.githubusercontent.com/97931505/168981050-e6b28fba-e6a7-4352-a471-576eaabde09a.mov
-
 
 
 Transcript: "take with his wo t at es e scards flatter as interele fil butk o the a far that letter as  dou h his life theyl".
@@ -259,6 +258,8 @@ https://user-images.githubusercontent.com/97931505/168981206-081481c9-7c3e-4bae-
 Transcript: "goo the heado mareth othe loaflolly is be it fron e fitule take osyous they af them i forther seriously de lighte sane re as".
 
 ### voice call scenario
+
+
 Origin audio (2961-960-0001 in Librispeech):
 
 
@@ -280,9 +281,7 @@ Transcript: "prob wold be thorgh them but influlers which no to ne is has es rec
 Origin audio + Universal perturbaion (L, random-chunk):
 
 
-
 https://user-images.githubusercontent.com/97931505/168986668-9f34bdcf-b50b-4e96-8a31-436f701f097f.mov
-
 
 
 Transcript: "would have ikeof the other tut olfuanc which thed pe may i with has exercised the pon o threre to wul bethew theim is dom hartly to omistunderstand it
