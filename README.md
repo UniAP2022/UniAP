@@ -158,7 +158,7 @@ Transcript: "the help in for a gut intol the riht he his hair be through tham n 
 
 ## over-the-air
 
-We provide the random-chunk UAPs without over-the-air enhancement. All the given transcript are the output of the robust DeepSpeech.
+We provide the random-chunk UAPs without over-the-air enhancement. All the given transcript are the output of the robust DeepSpeech. Here we utilize distortion level to measure the noise-signal ratio.
 
 ### chatting scenario
 
@@ -177,7 +177,7 @@ Ground truth: "it was the scarlet letter in another form the scarlet letter endo
 Transcript: "it was the scar of letter in hanother form the scar ed letter in dowled with lighes".
 
 
-Origin audio + Universal perturbaion (random-chunk, SNR: 44.5dB):
+Origin audio + Universal perturbaion (random-chunk, distortion level: -44.5dB):
 
 
 https://user-images.githubusercontent.com/97931505/168981050-e6b28fba-e6a7-4352-a471-576eaabde09a.mov
@@ -194,7 +194,7 @@ Ground truth: "the grateful applause of the clergy has consecrated the memory of
 
 Transcript: "the greateful flaws of the clerity has cauneecrated the memory of a crince who andulged their passes and promoted their interest".
 
-Origin audio + Universal perturbaion (random-chunk, SNR: 44.5dB):
+Origin audio + Universal perturbaion (random-chunk, distortion level: -44.5dB):
 
 https://user-images.githubusercontent.com/97931505/168981099-a76626e2-b2e6-4771-9f7e-5d3f19c1e028.mov
 
@@ -210,7 +210,7 @@ Ground truth: "there jap you've caught it laughed percy while the others screame
 Transcript:  "there jap you'v cot it laughed fircy while the other spreamed at the sigde of jaskes face".
 
 
-Origin audio + Universal perturbaion (random-chunk, SNR: 44.5dB):
+Origin audio + Universal perturbaion (random-chunk, distortion level: -44.5dB):
 
 https://user-images.githubusercontent.com/97931505/168981156-8820f44d-a865-49d0-806b-7b47d1d52af1.mov
 
@@ -227,7 +227,7 @@ Ground truth: "it is the head of a parrot with a little flower in his beak from 
 
 Transcript: "des the head of a parot of the little flowering he seat from a pictureof propotious one of his series of the life of santjurge".
 
-Origin audio + Universal perturbaion (random-chunk, SNR: 42dB):
+Origin audio + Universal perturbaion (random-chunk, distortion level: -42dB):
 
 https://user-images.githubusercontent.com/97931505/168981206-081481c9-7c3e-4bae-a7a7-9164e58104e4.mov
 
@@ -250,7 +250,7 @@ Ground truth: "the delaware dog he said leaning forward and peering through the 
 
 Transcript: "the delaware dork he said leaving forward and perang through the dim light to catch the expression of the other speechors dis het rad".
 
-Origin audio + Universal perturbaion (random-chunk, SNR: 44.5dB):
+Origin audio + Universal perturbaion (random-chunk, distortion level: -44.5dB):
 
 
 https://user-images.githubusercontent.com/97931505/169000396-4be485c8-961a-47c6-a0ef-ebc037b9a803.mov
@@ -260,7 +260,7 @@ Transcript: "u for they were  take t with his ledelo were dog he say we ma forwa
 
 ### voice call scenario
 
-In the chatting scenario, we provide audio examples of both louder perturbation(L) and quieter perturbation(Q). Here we utilize distortion level to measure the noise-signal ratio. Distortion level1 is measured at the transmitter and Distortion level2 is measured at the receiver.
+In the chatting scenario, we provide audio examples of both louder perturbation(L) and quieter perturbation(Q). Distortion level1 is measured at the transmitter and Distortion level2 is measured at the receiver.
 
 Origin audio (2961-960-0001 in Librispeech):
 
