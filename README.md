@@ -180,22 +180,36 @@ Transcript: "the help in for a gut intol the riht he his hair be through tham n 
 #### UMD = 1m, JMD = 1m
 Origin audio (2961-960-0001 in Librispeech):
 
-https://user-images.githubusercontent.com/97931505/151657475-c06ca5fa-5acb-48c6-a845-c5899a0eb361.mov
 
-Ground truth: "the influence with the timaeus has exercised upon posterity is due partly to a misunderstanding"
+https://user-images.githubusercontent.com/97931505/168979733-4554c11e-36cf-41ee-98d2-fb927c05e8c5.mov
+
+
+
+Ground truth: "it was the scarlet letter in another form the scarlet letter endowed with life".
+Transcript: "it was the scar of letter in hanother form the scar ed letter in dowled with lighes".
+
 
 Origin audio + Universal perturbaion (init status: kobayashi_loiacano, SNR: 42.21dB):
 
-https://user-images.githubusercontent.com/97931505/151657491-5e2e5074-e790-4da0-a3e7-afb32f4ea579.mov
+
+
+
+
+
 
 Transcript: "to an you have that inluas which hel naer as anerfires the ponpescarity to es do wores wollises wec fanin to you to"
 
 #### UMD = 4m, JMD = 4m
 Origin audio (1320-122617-0037 in Librispeech):
 
-https://user-images.githubusercontent.com/97931505/151657512-780bf48f-0e56-4699-9a35-c6fac935d370.mov
 
-Ground truth: "the delaware dog he said leaning forward and peering through the dim light to catch the expression of the other's features is he afraid"
+
+https://user-images.githubusercontent.com/97931505/168979812-fb4d691a-20fe-4959-81e7-46dff6aa9121.mov
+
+
+
+Ground truth: "the grateful applause of the clergy has consecrated the memory of a prince who indulged their passions and promoted their interest".
+Transcript: "the greateful flaws of the clerity has cauneecrated the memory of a crince who andulged their passes and promoted their interest".
 
 Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.11dB):
 
@@ -206,9 +220,15 @@ Transcript: "was more tha was more the deliver ons iv ras le eforwadid en ho the
 #### UMD = 0m, JMD = 1m
 Origin audio (1284-134647-0000 in Librispeech):
 
-https://user-images.githubusercontent.com/97931505/151657658-fcc3c79b-40f6-4bd8-949f-b50849ad4890.mov
 
-Ground truth: "the grateful applause of the clergy has consecrated the memory of a prince who indulged their passions and promoted their interest"
+
+https://user-images.githubusercontent.com/97931505/168979862-66a6b56d-5d34-4773-824f-89334685061e.mov
+
+
+
+Ground truth: "there jap you've caught it laughed percy while the others screamed at the sight of jasper's face".
+Transcript:  "there jap you'v cot it laughed fircy while the other spreamed at the sigde of jaskes face".
+
 
 Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.11dB):
 
@@ -223,9 +243,13 @@ https://user-images.githubusercontent.com/97931505/151294873-daee34eb-b221-400c-
 
 Origin audio (2094-142345-0039 in Librispeech):
 
-https://user-images.githubusercontent.com/97931505/151660153-a2f991e4-bab0-4c27-8ca5-e735d24a3f2d.mov
 
-Ground truth: "i've strong assurance that no evil will happen to you and my uncle and the children from anything i've done"
+
+https://user-images.githubusercontent.com/97931505/168979955-154633a4-a575-4fc9-9070-cbfe07cc6c62.mov
+
+
+Ground truth: "it is the head of a parrot with a little flower in his beak from a picture of carpaccio's one of his series of the life of saint george".
+Transcript: "des the head of a parot of the little flowering he seat from a pictureof propotious one of his series of the life of santjurge".
 
 Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.71dB):
 
@@ -239,6 +263,7 @@ Origin audio (2094-142345-0039 in Librispeech):
 https://user-images.githubusercontent.com/97931505/151660109-20b7d8da-cc33-47bd-bfdd-6cd45b7b3d18.mov
 
 Ground truth: "i've strong assurance that no evil will happen to you and my uncle and the children from anything i've done".
+Transcript:
 
 Origin audio + Universal perturbaion (init status: underplayed_conclusions_flextronic, SNR1: 48.21, SNR2: 31.51dB):
 
