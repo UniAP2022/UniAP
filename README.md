@@ -6,7 +6,9 @@ There are audio examples corresponding to the paper "UniAP: Protect Speech Priva
 
 ## digital domain
 
-We generate multiple non-targeted UAPs from different initialization status to defend against template subtracting method. We set the initialization status to be one of the following categories: random combination of sentence starter words, words containing multiple vowel phonemes, words containing multiple consonant phonemes and their combination. We also include a random-chunk perturbation, which is formed by randomly selecting UAP chunks from a UAP pool.
+We generate multiple non-targeted UAPs from different initialization status to defend against template subtracting method. We set the initialization status to be one of the following categories: random combination of sentence starter words, words containing multiple vowel phonemes, words containing multiple consonant phonemes and their combination. 
+
+We also include a random-chunk perturbation, which is formed by randomly selecting UAP chunks from a UAP pool.
 
 ### random combination of sentence starter words 
 Origin audio (19-198-0034 in Librispeech):
