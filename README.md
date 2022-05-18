@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/97931505/152574075-a27166b7-1052-492a-
 
 Ground truth: "there was not one family among their acquaintance who had reared and supported a boy accidentally found at their door not one young man whose origin was unknown her father had no ward and the squire of the parish no children".
 
-Origin audio + Universal perturbaion (init status: especially namely furthermore, SNR: 24.47):
+Origin audio + Universal perturbaion (init status: especially namely furthermore, SNR: 24.47dB):
 
 
 
@@ -83,7 +83,7 @@ https://user-images.githubusercontent.com/97931505/152575161-73f8f86c-14f7-4a73-
 
 Ground truth: "has done the damage the soul yearns for something more startling than that the record of the pond".
 
-Origin audio + Universal perturbaion (init status: kobayashi odonohue, SNR: 25.16):
+Origin audio + Universal perturbaion (init status: kobayashi odonohue, SNR: 25.16dB):
 
 
 
@@ -118,7 +118,7 @@ https://user-images.githubusercontent.com/97931505/152575370-ff2df804-1b10-4a48-
 
 Ground truth: "as though we were at target practice and an irish sergeant byrne was assisting him by keeping up a continuous flow of comments and criticisms that showed the keenest enjoyment of the situation".
 
-Origin audio + Universal perturbaion (init status: mockingbird, SNR: 21.12):
+Origin audio + Universal perturbaion (init status: mockingbird, SNR: 21.12dB):
 
 
 
@@ -145,7 +145,7 @@ https://user-images.githubusercontent.com/97931505/152575563-8bc3ac70-6ea9-4821-
 
 Ground truth: "so upon the morn they took their horses with the queen and rode a maying in woods and meadows as it pleased them in great joy and delight now there was a knight".
 
-Origin audio + Universal perturbaion (init status: investigations rosenboom mockingbird, SNR:  26.42):
+Origin audio + Universal perturbaion (init status: investigations rosenboom mockingbird, SNR:  26.42dB):
 
 
 
@@ -171,7 +171,7 @@ https://user-images.githubusercontent.com/97931505/168720913-6a396729-3553-4263-
 
 Ground truth: "and forgotten to brush his hair it pointed every which way his legs were dark his feet black and his toes white his ears were without any hair at all".
 
-Origin audio + Universal perturbaion (random-chunk, SNR:  30.18):
+Origin audio + Universal perturbaion (random-chunk, SNR:  30.18dB):
 
 
 https://user-images.githubusercontent.com/97931505/168720955-5fb8a794-a975-4399-affb-50750f60c226.mov
@@ -199,7 +199,7 @@ Ground truth: "it was the scarlet letter in another form the scarlet letter endo
 Transcript: "it was the scar of letter in hanother form the scar ed letter in dowled with lighes".
 
 
-Origin audio + Universal perturbaion (random-chunk, SNR: 42.21dB):
+Origin audio + Universal perturbaion (random-chunk, SNR: 44.5dB):
 
 
 https://user-images.githubusercontent.com/97931505/168981050-e6b28fba-e6a7-4352-a471-576eaabde09a.mov
@@ -216,7 +216,7 @@ Ground truth: "the grateful applause of the clergy has consecrated the memory of
 
 Transcript: "the greateful flaws of the clerity has cauneecrated the memory of a crince who andulged their passes and promoted their interest".
 
-Origin audio + Universal perturbaion (random-chunk, SNR: 42.11dB):
+Origin audio + Universal perturbaion (random-chunk, SNR: 44.5dB):
 
 https://user-images.githubusercontent.com/97931505/168981099-a76626e2-b2e6-4771-9f7e-5d3f19c1e028.mov
 
@@ -232,7 +232,7 @@ Ground truth: "there jap you've caught it laughed percy while the others screame
 Transcript:  "there jap you'v cot it laughed fircy while the other spreamed at the sigde of jaskes face".
 
 
-Origin audio + Universal perturbaion (random-chunk, SNR: 42.11dB):
+Origin audio + Universal perturbaion (random-chunk, SNR: 44.5dB):
 
 https://user-images.githubusercontent.com/97931505/168981156-8820f44d-a865-49d0-806b-7b47d1d52af1.mov
 
@@ -249,7 +249,7 @@ Ground truth: "it is the head of a parrot with a little flower in his beak from 
 
 Transcript: "des the head of a parot of the little flowering he seat from a pictureof propotious one of his series of the life of santjurge".
 
-Origin audio + Universal perturbaion (random-chunk, SNR: 42.71dB):
+Origin audio + Universal perturbaion (random-chunk, SNR: 42dB):
 
 https://user-images.githubusercontent.com/97931505/168981206-081481c9-7c3e-4bae-a7a7-9164e58104e4.mov
 
@@ -272,7 +272,7 @@ Ground truth: "the delaware dog he said leaning forward and peering through the 
 
 Transcript: "the delaware dork he said leaving forward and perang through the dim light to catch the expression of the other speechors dis het rad".
 
-Origin audio + Universal perturbaion (random-chunk, SNR: 42.71dB):
+Origin audio + Universal perturbaion (random-chunk, SNR: 44.5dB):
 
 
 https://user-images.githubusercontent.com/97931505/169000396-4be485c8-961a-47c6-a0ef-ebc037b9a803.mov
@@ -294,7 +294,7 @@ Ground truth: "the influence with the timaeus has exercised upon posterity is du
 
 Transcript: "at the influence which the to me us has ex recised the pon desterity is duehartly to a misenderstanding".
 
-Origin audio + Universal perturbaion (Q, random-chunk):
+Origin audio + Universal perturbaion (Q, random-chunk, SNR1: 46.07dB, SNR2: 31.3dB):
 
 
 https://user-images.githubusercontent.com/97931505/168986645-1161b7a8-ef9b-49ac-a376-ca63b7c57314.mov
@@ -302,7 +302,7 @@ https://user-images.githubusercontent.com/97931505/168986645-1161b7a8-ef9b-49ac-
 
 Transcript: "prob wold be thorgh them but influlers which no to ne is has es recised the pontes perity from they would misdobe hards re to a misular standing". 
 
-Origin audio + Universal perturbaion (L, random-chunk):
+Origin audio + Universal perturbaion (L, random-chunk, SNR1: 44.97dB, SNR2: 22.9dB):
 
 
 https://user-images.githubusercontent.com/97931505/168986668-9f34bdcf-b50b-4e96-8a31-436f701f097f.mov
