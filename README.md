@@ -1,15 +1,15 @@
 # UniAP
-This is the audio examples corresponding to the paper "UniAP: Protect Speech Privacy with Non-targeted Universal Adversarial Perturbations"
+There are audio examples corresponding to the paper "UniAP: Protect Speech Privacy with Non-targeted Universal Adversarial Perturbations"
 
 
 
 
 ## digital domain
 
-We generate multiple non-targeted UAPs from different initialization status to defend against template subtracting method. We set the initialization status to be one of the following categories: random combination of sentence starter words, words containing multiple vowel phonemes, words containing multiple consonant phonemes and their combination. We also include a random-chunk perturbation.
+We generate multiple non-targeted UAPs from different initialization status to defend against template subtracting method. We set the initialization status to be one of the following categories: random combination of sentence starter words, words containing multiple vowel phonemes, words containing multiple consonant phonemes and their combination. We also include a random-chunk perturbation, which is formed by multiple different chunks.
 
 ### random combination of sentence starter words 
-Origin audio 19-198-0034 in Librispeech):
+Origin audio (19-198-0034 in Librispeech):
 
 
 
@@ -58,7 +58,7 @@ Ground truth: "scandalized at the idea of such a precious garment being put on b
 
 Transcript: "skindalised at the idea of such a precious garment being put on before breakfast that bery one duliet asured her undaunted and was a rayed in it in spite of obvious disabroval after breakfast they went out".
 
-Origin audio + Universal perturbaion (init status: aduliadae, SNR: 22.80):
+Origin audio + Universal perturbaion (init status: aduliadae, SNR: 22.80dB):
 
 
 
