@@ -204,7 +204,11 @@ Origin audio (1320-122617-0037 in Librispeech):
 
 
 
-https://user-images.githubusercontent.com/97931505/168982831-f66a0cd8-0d08-42af-9c37-b95d108acffe.mov
+
+
+https://user-images.githubusercontent.com/97931505/168983698-4369214e-f6c5-4bc7-a290-21805582912f.mov
+
+
 
 
 
