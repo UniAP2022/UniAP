@@ -282,15 +282,32 @@ Transcript: "goo the heado mareth othe loaflolly is be it fron e fitule take osy
 ### voice call scenario
 Origin audio (2094-142345-0039 in Librispeech):
 
-https://user-images.githubusercontent.com/97931505/151660109-20b7d8da-cc33-47bd-bfdd-6cd45b7b3d18.mov
 
-Ground truth: "i've strong assurance that no evil will happen to you and my uncle and the children from anything i've done".
-Transcript:
+https://user-images.githubusercontent.com/97931505/168986285-bd494a5e-e25d-4be3-8951-8e35a79bbfdb.mov
 
-Origin audio + Universal perturbaion (init status: underplayed_conclusions_flextronic, SNR1: 48.21, SNR2: 31.51dB):
 
-https://user-images.githubusercontent.com/97931505/151660115-c083fec5-1e7a-4d00-8c6b-c62f37aa730b.mov
+Ground truth: "the influence with the timaeus has exercised upon posterity is due partly to a misunderstanding".
 
-Transcript: "they would with a they would with a ive strong as suran they spetan no egil wit had the te you and my own cold ind the children fermany ley nifeve dones they would". 
+Transcript: "at the influence which the to me us has ex recised the pon desterity is duehartly to a misenderstanding".
 
+Origin audio + Universal perturbaion (Q):
+
+
+
+https://user-images.githubusercontent.com/97931505/168986645-1161b7a8-ef9b-49ac-a376-ca63b7c57314.mov
+
+
+
+Transcript: "prob wold be thorgh them but influlers which no to ne is has es recised the pontes perity from they would misdobe hards re to a misular standing". 
+
+Origin audio + Universal perturbaion (L):
+
+
+
+https://user-images.githubusercontent.com/97931505/168986668-9f34bdcf-b50b-4e96-8a31-436f701f097f.mov
+
+
+
+Transcript: "would have ikeof the other tut olfuanc which thed pe may i with has exercised the pon o threre to wul bethew theim is dom hartly to omistunderstand it
+".
 
