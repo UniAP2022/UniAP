@@ -1,7 +1,7 @@
 # UniAP
 This is the code corresponding to the paper "UniAP: Protect Speech Privacy with Non-targeted Universal Adversarial Perturbations"
 
-//# Universal Adversarial Perturbations
+
 
 
 ## digital domain
@@ -187,7 +187,7 @@ Transcript: "the help in for a gut intol the riht he his hair be through tham n 
 In the 
 
 #### UMD = 1m, JMD = 1m
-Origin audio (2961-960-0001 in Librispeech):
+Origin audio (1221-135767-0005 in Librispeech):
 
 
 https://user-images.githubusercontent.com/97931505/168979733-4554c11e-36cf-41ee-98d2-fb927c05e8c5.mov
@@ -199,7 +199,7 @@ Ground truth: "it was the scarlet letter in another form the scarlet letter endo
 Transcript: "it was the scar of letter in hanother form the scar ed letter in dowled with lighes".
 
 
-Origin audio + Universal perturbaion (init status: kobayashi_loiacano, SNR: 42.21dB):
+Origin audio + Universal perturbaion (random-chunk, SNR: 42.21dB):
 
 
 https://user-images.githubusercontent.com/97931505/168981050-e6b28fba-e6a7-4352-a471-576eaabde09a.mov
@@ -209,56 +209,33 @@ https://user-images.githubusercontent.com/97931505/168981050-e6b28fba-e6a7-4352-
 Transcript: "take with his wo t at es e scards flatter as interele fil butk o the a far that letter as  dou h his life theyl".
 
 #### UMD = 4m, JMD = 4m
-Origin audio (1320-122617-0037 in Librispeech):
-
-
-
-
-
+Origin audio (1284-134647-0000 in Librispeech):
 
 https://user-images.githubusercontent.com/97931505/168983698-4369214e-f6c5-4bc7-a290-21805582912f.mov
-
-
-
-
-
 
 Ground truth: "the grateful applause of the clergy has consecrated the memory of a prince who indulged their passions and promoted their interest".
 
 Transcript: "the greateful flaws of the clerity has cauneecrated the memory of a crince who andulged their passes and promoted their interest".
 
-Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.11dB):
-
-
-
+Origin audio + Universal perturbaion (random-chunk, SNR: 42.11dB):
 
 https://user-images.githubusercontent.com/97931505/168981099-a76626e2-b2e6-4771-9f7e-5d3f19c1e028.mov
-
-
-
 
 Transcript: "wut is rison n for the ratful douses aclergey on the poscositrateds and mouas his trin singue tocal induly mintachi god through the and permiliis ther on to re leu ws".
 
 #### UMD = 0m, JMD = 1m
-Origin audio (1284-134647-0000 in Librispeech):
-
-
+Origin audio (237-126133-0017 in Librispeech):
 
 https://user-images.githubusercontent.com/97931505/168979862-66a6b56d-5d34-4773-824f-89334685061e.mov
-
-
 
 Ground truth: "there jap you've caught it laughed percy while the others screamed at the sight of jasper's face".
 
 Transcript:  "there jap you'v cot it laughed fircy while the other spreamed at the sigde of jaskes face".
 
 
-Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.11dB):
-
-
+Origin audio + Universal perturbaion (random-chunk, SNR: 42.11dB):
 
 https://user-images.githubusercontent.com/97931505/168981156-8820f44d-a865-49d0-806b-7b47d1d52af1.mov
-
 
 Transcript: "i  the other tair jaftes cothis s re lagh wir he ol clallty others sreem bat e cesteve jasp bes mamed".
 
@@ -269,27 +246,20 @@ https://user-images.githubusercontent.com/97931505/151294873-daee34eb-b221-400c-
 
 Origin audio (2094-142345-0039 in Librispeech):
 
-
-
 https://user-images.githubusercontent.com/97931505/168979955-154633a4-a575-4fc9-9070-cbfe07cc6c62.mov
-
 
 Ground truth: "it is the head of a parrot with a little flower in his beak from a picture of carpaccio's one of his series of the life of saint george".
 
 Transcript: "des the head of a parot of the little flowering he seat from a pictureof propotious one of his series of the life of santjurge".
 
-Origin audio + Universal perturbaion (init status: notwithstanding_moreover_unusually, SNR: 42.71dB):
-
-
+Origin audio + Universal perturbaion (random-chunk, SNR: 42.71dB):
 
 https://user-images.githubusercontent.com/97931505/168981206-081481c9-7c3e-4bae-a7a7-9164e58104e4.mov
-
-
 
 Transcript: "goo the heado mareth othe loaflolly is be it fron e fitule take osyous they af them i forther seriously de lighte sane re as".
 
 ### voice call scenario
-Origin audio (2094-142345-0039 in Librispeech):
+Origin audio (2961-960-0001 in Librispeech):
 
 
 https://user-images.githubusercontent.com/97931505/168986285-bd494a5e-e25d-4be3-8951-8e35a79bbfdb.mov
@@ -299,17 +269,15 @@ Ground truth: "the influence with the timaeus has exercised upon posterity is du
 
 Transcript: "at the influence which the to me us has ex recised the pon desterity is duehartly to a misenderstanding".
 
-Origin audio + Universal perturbaion (Q):
-
+Origin audio + Universal perturbaion (Q, random-chunk):
 
 
 https://user-images.githubusercontent.com/97931505/168986645-1161b7a8-ef9b-49ac-a376-ca63b7c57314.mov
 
 
-
 Transcript: "prob wold be thorgh them but influlers which no to ne is has es recised the pontes perity from they would misdobe hards re to a misular standing". 
 
-Origin audio + Universal perturbaion (L):
+Origin audio + Universal perturbaion (L, random-chunk):
 
 
 
