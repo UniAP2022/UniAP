@@ -239,9 +239,7 @@ https://user-images.githubusercontent.com/97931505/168981156-8820f44d-a865-49d0-
 Transcript: "i  the other tair jaftes cothis s re lagh wir he ol clallty others sreem bat e cesteve jasp bes mamed".
 
 #### UMD = 0m, JMD = 4m
-![walking_scenario_mosaic](https://user-images.githubusercontent.com/97931505/151647536-1fce9d39-9ab7-4faf-bed5-78c2ee735ac4.png)
 
-https://user-images.githubusercontent.com/97931505/151294873-daee34eb-b221-400c-ad14-e014b18c0e50.mov
 
 Origin audio (2094-142345-0039 in Librispeech):
 
@@ -256,6 +254,31 @@ Origin audio + Universal perturbaion (random-chunk, SNR: 42.71dB):
 https://user-images.githubusercontent.com/97931505/168981206-081481c9-7c3e-4bae-a7a7-9164e58104e4.mov
 
 Transcript: "goo the heado mareth othe loaflolly is be it fron e fitule take osyous they af them i forther seriously de lighte sane re as".
+
+### walking scenario
+![walking_scenario_mosaic](https://user-images.githubusercontent.com/97931505/151647536-1fce9d39-9ab7-4faf-bed5-78c2ee735ac4.png)
+
+https://user-images.githubusercontent.com/97931505/151294873-daee34eb-b221-400c-ad14-e014b18c0e50.mov
+
+Origin audio (2094-142345-0039 in Librispeech):
+
+
+
+https://user-images.githubusercontent.com/97931505/169000330-69acde04-4a62-4d93-8509-7cd62bed7dc4.mov
+
+
+
+Ground truth: "the delaware dog he said leaning forward and peering through the dim light to catch the expression of the other's features is he afraid".
+
+Transcript: "the delaware dork he said leaving forward and perang through the dim light to catch the expression of the other speechors dis het rad".
+
+Origin audio + Universal perturbaion (random-chunk, SNR: 42.71dB):
+
+
+https://user-images.githubusercontent.com/97931505/169000396-4be485c8-961a-47c6-a0ef-ebc037b9a803.mov
+
+
+Transcript: "u for they were  take t with his ledelo were dog he say we ma forwar am pine  his pis er friy with tach more creshion of the o the thishs is lowere wuat".
 
 ### voice call scenario
 
