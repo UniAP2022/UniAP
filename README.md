@@ -1,10 +1,13 @@
 # UniAP
 This is the code corresponding to the paper "UniAP: Protect Speech Privacy with Non-targeted Universal Adversarial Perturbations"
 
-# Universal Adversarial Perturbations
-We generate multiple non-targeted UAPs from different initialization status to defend against template subtracting method. We set the initialization status to be one of the following categories: random combination of sentence starter words, words containing multiple vowel phonemes, words containing multiple consonant phonemes and their combination. We also include a random-chunk perturbation.
+//# Universal Adversarial Perturbations
+
 
 ## digital domain
+
+We generate multiple non-targeted UAPs from different initialization status to defend against template subtracting method. We set the initialization status to be one of the following categories: random combination of sentence starter words, words containing multiple vowel phonemes, words containing multiple consonant phonemes and their combination. We also include a random-chunk perturbation.
+
 ### random combination of sentence starter words 
 Origin audio 19-198-0034 in Librispeech):
 
@@ -176,7 +179,13 @@ https://user-images.githubusercontent.com/97931505/168720955-5fb8a794-a975-4399-
 Transcript: "the help in for a gut intol the riht he his hair be through tham n the hat the pointed every wich way would have ling with in aflick of the otheas le lags he would dar when think you took his with he would be glad the other thing you tened his cos would mi ly would have what he would have for the morning ame as fears tho here without  any hair at all ther the for the".
 
 ## over-the-air
+
+
+
 ### chatting scenario
+
+In the 
+
 #### UMD = 1m, JMD = 1m
 Origin audio (2961-960-0001 in Librispeech):
 
