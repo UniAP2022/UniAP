@@ -132,7 +132,7 @@ Ground truth: "so upon the morn they took their horses with the queen and rode a
 
 Transcript: "so upon the more they took their horses withe the queen and rode a maing in woods and meadows as it pleased them in great joy and delight now there was a night".
 
-Origin audio + Universal perturbaion (init status: investigations rosenboom mockingbird, SNR:  26.42dB):
+Origin audio + Universal perturbaion (init status: investigations rosenboom mockingbird, SNR: 26.42dB):
 
 
 https://user-images.githubusercontent.com/97931505/168716044-a95f82f9-a917-48dd-8a3a-40cb50c3b9eb.mov
@@ -151,7 +151,7 @@ Ground truth: "and forgotten to brush his hair it pointed every which way his le
 Transcript: "and forgotten to brush his hair it pointed every which way his legs were dark his feet black and his toes white his ears were without any hair at all
 ".
 
-Origin audio + Universal perturbaion (random-chunk, SNR:  30.18dB):
+Origin audio + Universal perturbaion (random-chunk, SNR: 30.18dB):
 
 
 https://user-images.githubusercontent.com/97931505/168720955-5fb8a794-a975-4399-affb-50750f60c226.mov
@@ -160,7 +160,7 @@ Transcript: "the help in for a gut intol the riht he his hair be through tham n 
 
 ## Over-the-air
 
-We provide the random-chunk UAPs without over-the-air enhancement, cause there is little difference between the UAPs with and without enhancement in the sense of hearing. All the given transcript are the output of the robust DeepSpeech. Here we utilize distortion level to measure the noise-signal ratio.
+We provide the random-chunk UAPs without over-the-air enhancement, cause there is little difference between the UAPs with and without enhancement in the sense of hearing. All the audios are recorded by real recording equipments and all the given transcript are the output of the robust DeepSpeech. Here we utilize distortion level to measure the noise-signal ratio.
 
 ### Chatting scenario
 
