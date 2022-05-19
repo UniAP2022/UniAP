@@ -15,12 +15,7 @@ Origin audio (19-198-0034 in Librispeech):
 
 
 
-
-
-
 https://user-images.githubusercontent.com/97931505/152574075-a27166b7-1052-492a-a302-31c7e3034eeb.mov
-
-
 
 
 
@@ -31,15 +26,7 @@ Transcript: "there was not one family among their acquaintance who had reared an
 Origin audio + Universal perturbaion (init status: especially namely furthermore, SNR: 24.47dB):
 
 
-
-
-
-
 https://user-images.githubusercontent.com/97931505/168715163-c8d7760f-e848-4ec1-b2f0-e92ce8eb9362.mov
-
-
-
-
 
 
 
@@ -49,10 +36,7 @@ Transcript: "uldn't from they would new as not win family among  their acquainta
 Origin audio (5703-47198-0056 in Librispeech):
 
 
-
 https://user-images.githubusercontent.com/97931505/152574625-3e0a07a0-75e1-4cad-940d-7ace8aa7f770.mov
-
-
 
 
 
@@ -266,7 +250,7 @@ Transcript: "u for they were  take t with his ledelo were dog he say we ma forwa
 
 ### Voice call scenario
 
-In the chatting scenario, we provide audio examples of both louder perturbation(L) and quieter perturbation(Q). Distortion level1 is measured at the location of transmitter and Distortion level2 is measured at the location of receiver.
+In the chatting scenario, we provide audio examples of both louder perturbation (L) and quieter perturbation (Q). Distortion level1 is measured at the location of transmitter and Distortion level2 is measured at the location of receiving microphone, that is to say, distortion level2 represents the strength of distortion in the recorded audios.
 
 Origin audio (2961-960-0001 in Librispeech):
 
