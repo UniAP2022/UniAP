@@ -6,7 +6,7 @@ Here we provide both original and adversarial audio examples corresponding to th
 
 ## Digital domain
 
-We generate multiple non-targeted UAPs from different initialization status to defend against template subtracting method. We set the initialization status to be one of the following categories: random combination of sentence starter words, words containing multiple vowel phonemes, words containing multiple consonant phonemes and their combination. 
+We generate multiple non-targeted universal adversarial perturbations (UAPs) from different initialization status to defend against template subtracting method. We set the initialization status to be one of the following categories: random combination of sentence starter words, words containing multiple vowel phonemes, words containing multiple consonant phonemes and their combination. 
 
 We also include a random-chunk perturbation, which is formed by randomly selecting UAP chunks from a UAP pool.
 
