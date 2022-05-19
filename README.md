@@ -1,14 +1,16 @@
 #  Universal Adversarial Perturbations (UniAP)
-Here we provide both original and adversarial audio examples corresponding to the paper "UniAP: Protect Speech Privacy with Non-targeted Universal Adversarial Perturbations".
+Here we provide both the original speech samples and the adversarial audio examples (perturbed speech signals) corresponding to the paper "UniAP: Protect Speech Privacy with Non-targeted Universal Adversarial Perturbations".
 
 
 
 
 ## Digital domain
 
-We generate multiple non-targeted universal adversarial perturbations (UAPs) from different initialization status to defend against template subtracting method. We set the initialization status to be one of the following categories: random combination of sentence starter words, words containing multiple vowel phonemes, words containing multiple consonant phonemes and their combination. 
+We generate multiple non-targeted universal adversarial perturbations (UAPs) from different initialization status to defend against template subtracting. We set the initialization status to be one of the following categories: random combination of sentence starter words, words containing multiple vowel phonemes, words containing multiple consonant phonemes and their combination. 
 
-We also include a random-chunk perturbation, which is formed by randomly selecting UAP chunks from a UAP pool.
+We also include a random-chunk perturbation, which is formed by randomly selecting UAP chunks from a UAP pool. 
+
+Please note that the perturbed audios within this section are on straightforwardly crafted on the digital domain rather than being played and recorded in the physical playback environment.
 
 ### Random combination of sentence starter words 
 Origin audio (19-198-0034 in Librispeech):
@@ -144,7 +146,7 @@ Transcript: "the help in for a gut intol the riht he his hair be through tham n 
 
 ## Over-the-air
 
-We provide the random-chunk UAPs without over-the-air enhancement, cause there is little difference between the UAPs with and without enhancement in the sense of hearing. All the audios are recorded by real recording equipments and all the given transcript are the output of the robust DeepSpeech. Here we utilize distortion level to measure the noise-signal ratio.
+We provide the random-chunk UAPs without over-the-air enhancement, cause there is little difference between the UAPs with and without enhancement from the hearing perspective. All the audios are recorded by real recording equipments and all of the given transcripts are the output of the robust DeepSpeech. Here we utilize distortion level to measure the noise-signal ratio. 
 
 ### Chatting scenario
 
