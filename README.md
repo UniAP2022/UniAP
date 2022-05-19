@@ -1,16 +1,16 @@
-# UniAP
-There are audio examples corresponding to the paper "UniAP: Protect Speech Privacy with Non-targeted Universal Adversarial Perturbations"
+#  Universal Adversarial Perturbations (UniAP)
+Here we provide audio examples corresponding to the paper "UniAP: Protect Speech Privacy with Non-targeted Universal Adversarial Perturbations".
 
 
 
 
-## digital domain
+## Digital domain
 
 We generate multiple non-targeted UAPs from different initialization status to defend against template subtracting method. We set the initialization status to be one of the following categories: random combination of sentence starter words, words containing multiple vowel phonemes, words containing multiple consonant phonemes and their combination. 
 
 We also include a random-chunk perturbation, which is formed by randomly selecting UAP chunks from a UAP pool.
 
-### random combination of sentence starter words 
+### Random combination of sentence starter words 
 Origin audio (19-198-0034 in Librispeech):
 
 
@@ -45,7 +45,7 @@ https://user-images.githubusercontent.com/97931505/168715163-c8d7760f-e848-4ec1-
 
 Transcript: "uldn't from they would new as not win family among  their acquaintant roh scho had t reared and some ported an they accidentally found at vendorm an they wouldn't from they wouldn't not onrun young than whose arigen was on knoone from they wouldn't from the carfather had now thy ware an they wouldn't from and at the squired of the parish we now children  from they wouldn't".
 
-### single word containing multiple vowel phonemes 
+### Single word containing multiple vowel phonemes 
 Origin audio (5703-47198-0056 in Librispeech):
 
 
@@ -74,7 +74,7 @@ https://user-images.githubusercontent.com/97931505/168715252-e7e7c0b3-1eb5-4f48-
 
 Transcript: "the other plank of skindalrose than the oveia round sucaly a recious grment of the onther guonanian  fling of the ro plentoy other plank of the upler in the one on the other to of the other churan her upon in the antod of the other plack of the enewas or rave in a the plican supplid them ith on of the other slus an o the rillng of the other plank of the other catheron lar cloce t tey one aly other".
 
-### random combination of words containing multiple vowel phonemes
+### Random combination of words containing multiple vowel phonemes
 Origin audio (7517-100429-0009 in Librispeech):
 
 
@@ -102,7 +102,7 @@ https://user-images.githubusercontent.com/97931505/168715770-f2368fc9-6921-4659-
 
 Transcript: "only to post down in the damn ance you only to let you only to assoull yo yeur n his first some thing with you only tours startle in none do hat lik to let you only to let you only tirectrt of the pand ou ol".
 
-### single word containing multiple consonant phonemes 
+### Single word containing multiple consonant phonemes 
 Origin audio (5049-25947-0080 in Librispeech):
 
 
@@ -121,7 +121,7 @@ https://user-images.githubusercontent.com/97931505/168715798-30b025f6-a780-4381-
 
 Transcript: "uld have olo neler of bad par net he raftive have what he manded irish largein what he would hearn would have what he was the sisty we him of by healy wave in continuous flow of omment he would hear ousthat was he would have atshuwed himc enes to ujoyme a would has what yeash  he would have what h".
 
-### random combination of words containing multiple consonant phonemes
+### Random combination of words containing multiple consonant phonemes
 Origin audio (3436-172162-0005 in Librispeech):
 
 
@@ -140,7 +140,7 @@ https://user-images.githubusercontent.com/97931505/168716044-a95f82f9-a917-48dd-
 
 Transcript: "in they held them in they saw upon the mord thayed took their horsehes wwimenly helmen im help them in they had roawed them an unmanig old the ini oer anc an y meatows as if pleased  them in they helpd them in the in great that yoy and delight help them in they held them in they helpd them in they ano their was u night ti".
 
-### random-chunk UAP
+### Random-chunk UAP
 Origin audio (1363-135842-0022 in Librispeech):
 
 
@@ -158,11 +158,11 @@ https://user-images.githubusercontent.com/97931505/168720955-5fb8a794-a975-4399-
 
 Transcript: "the help in for a gut intol the riht he his hair be through tham n the hat the pointed every wich way would have ling with in aflick of the otheas le lags he would dar when think you took his with he would be glad the other thing you tened his cos would mi ly would have what he would have for the morning ame as fears tho here without  any hair at all ther the for the".
 
-## over-the-air
+## Over-the-air
 
 We provide the random-chunk UAPs without over-the-air enhancement. All the given transcript are the output of the robust DeepSpeech. Here we utilize distortion level to measure the noise-signal ratio.
 
-### chatting scenario
+### Chatting scenario
 
 In the chatting scenario, we provide audio examples of four different locations.  
 
@@ -235,7 +235,7 @@ https://user-images.githubusercontent.com/97931505/168981206-081481c9-7c3e-4bae-
 
 Transcript: "goo the heado mareth othe loaflolly is be it fron e fitule take osyous they af them i forther seriously de lighte sane re as".
 
-### walking scenario
+### Walking scenario
 ![walking_scenario_mosaic](https://user-images.githubusercontent.com/97931505/151647536-1fce9d39-9ab7-4faf-bed5-78c2ee735ac4.png)
 
 https://user-images.githubusercontent.com/97931505/151294873-daee34eb-b221-400c-ad14-e014b18c0e50.mov
@@ -260,7 +260,7 @@ https://user-images.githubusercontent.com/97931505/169000396-4be485c8-961a-47c6-
 
 Transcript: "u for they were  take t with his ledelo were dog he say we ma forwar am pine  his pis er friy with tach more creshion of the o the thishs is lowere wuat".
 
-### voice call scenario
+### Voice call scenario
 
 In the chatting scenario, we provide audio examples of both louder perturbation(L) and quieter perturbation(Q). Distortion level1 is measured at the location of transmitter and Distortion level2 is measured at the location of receiver.
 
