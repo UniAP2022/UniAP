@@ -164,7 +164,8 @@ We provide the random-chunk UAPs without over-the-air enhancement. All the given
 
 ### Chatting scenario
 
-In the chatting scenario, we provide audio examples of four different locations.  
+In the chatting scenario, we provide audio examples of four different locations. Locations are described by distance between the user and
+microphone (UMD) and distance between the jammer and microphone (JMD).
 
 #### UMD = 1m, JMD = 1m
 Origin audio (1221-135767-0005 in Librispeech):
