@@ -1,5 +1,5 @@
 #  Universal Adversarial Perturbations (UniAP)
-Here we provide audio examples corresponding to the paper "UniAP: Protect Speech Privacy with Non-targeted Universal Adversarial Perturbations".
+Here we provide both original and adversarial audio examples corresponding to the paper "UniAP: Protect Speech Privacy with Non-targeted Universal Adversarial Perturbations".
 
 
 
