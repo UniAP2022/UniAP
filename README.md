@@ -238,7 +238,7 @@ Transcript: "goo the heado mareth othe loaflolly is be it fron e fitule take osy
 
 ### Walking scenario
 
-We provide a video to show how the experiment in walking scenario was conducted. 
+We provide a picture and a video to show how the experiment in walking scenario was conducted. 
 
 ![walking_scenario_mosaic](https://user-images.githubusercontent.com/97931505/151647536-1fce9d39-9ab7-4faf-bed5-78c2ee735ac4.png)
 
