@@ -160,7 +160,7 @@ Transcript: "the help in for a gut intol the riht he his hair be through tham n 
 
 ## Over-the-air
 
-We provide the random-chunk UAPs without over-the-air enhancement. All the given transcript are the output of the robust DeepSpeech. Here we utilize distortion level to measure the noise-signal ratio.
+We provide the random-chunk UAPs without over-the-air enhancement, cause there is little difference between the UAPs with and without enhancement in the sense of hearing. All the given transcript are the output of the robust DeepSpeech. Here we utilize distortion level to measure the noise-signal ratio.
 
 ### Chatting scenario
 
@@ -237,6 +237,9 @@ https://user-images.githubusercontent.com/97931505/168981206-081481c9-7c3e-4bae-
 Transcript: "goo the heado mareth othe loaflolly is be it fron e fitule take osyous they af them i forther seriously de lighte sane re as".
 
 ### Walking scenario
+
+We provide a video to show how the experiment in walking scenario was conducted. 
+
 ![walking_scenario_mosaic](https://user-images.githubusercontent.com/97931505/151647536-1fce9d39-9ab7-4faf-bed5-78c2ee735ac4.png)
 
 https://user-images.githubusercontent.com/97931505/151294873-daee34eb-b221-400c-ad14-e014b18c0e50.mov
