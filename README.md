@@ -250,7 +250,7 @@ Transcript: "u for they were  take t with his ledelo were dog he say we ma forwa
 
 ### Voice call scenario
 
-In the voice call scenario, we provide audio examples of both louder perturbation (L) and quieter perturbation (Q). Distortion level1 is measured at the location of transmitter and Distortion level2 is measured with the recorded perturbation and audio, that is to say, distortion level1 represents the actual strength of distortion and distortion level2 represents the strength of distortion perceived by the receiver of the voice message.
+In the voice call scenario, we provide audio examples of both louder perturbation (L) and quieter perturbation (Q). Distortion-S is measured at the location of the speaker and Distortion-R is measured with the recorded perturbation and audio, that is to say, distortion-S represents the actual strength of distortion perceived by the speaker (user) and distortion-R represents the strength of distortion perceived by the receiver of the voice message.
 
 Origin audio (2961-960-0001 in Librispeech):
 
@@ -262,7 +262,7 @@ Ground truth: "the influence with the timaeus has exercised upon posterity is du
 
 Transcript: "at the influence which the to me us has ex recised the pon desterity is duehartly to a misenderstanding".
 
-Origin audio + Universal perturbaion (Q, random-chunk, distortion level1: -46.07dB, distortion level2: -31.3dB):
+Origin audio + Universal perturbaion (Q, random-chunk, distortion-S: -46.07dB, distortion-R: -31.3dB):
 
 
 https://user-images.githubusercontent.com/97931505/168986645-1161b7a8-ef9b-49ac-a376-ca63b7c57314.mov
@@ -270,7 +270,7 @@ https://user-images.githubusercontent.com/97931505/168986645-1161b7a8-ef9b-49ac-
 
 Transcript: "prob wold be thorgh them but influlers which no to ne is has es recised the pontes perity from they would misdobe hards re to a misular standing". 
 
-Origin audio + Universal perturbaion (L, random-chunk, distortion level1: -44.97dB, distortion level2: -22.9dB):
+Origin audio + Universal perturbaion (L, random-chunk, distortion-S: -44.97dB, distortion-R: -22.9dB):
 
 
 https://user-images.githubusercontent.com/97931505/168986668-9f34bdcf-b50b-4e96-8a31-436f701f097f.mov
