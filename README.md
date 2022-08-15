@@ -132,8 +132,8 @@ Here we provide the appendix and both the original speech samples and the advers
 
 ### Demonstration of the UniAP app interface
 
-![app1](https://user-images.githubusercontent.com/97931505/184636191-6465146d-89ec-4ae0-b98a-b8ec484d0011.jpg =200x100)
-![app2](https://user-images.githubusercontent.com/97931505/184636173-55ef1826-a01e-4038-a1d4-f78b89d54b00.jpg =200x100)
+![app1](https://user-images.githubusercontent.com/97931505/184636191-6465146d-89ec-4ae0-b98a-b8ec484d0011.jpg)
+![app2](https://user-images.githubusercontent.com/97931505/184636173-55ef1826-a01e-4038-a1d4-f78b89d54b00.jpg)
 
 ## Digital domain Samples
 
