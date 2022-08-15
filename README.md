@@ -4,7 +4,8 @@ Here we provide the appendix of the paper and audio samples including both the o
 
 ## Appendix
 
-In the appendix, we provide additional evaluation results which not appear on the paper because of the page limit and the demonstration of the UniAP app interface. 
+In the appendix, we provide additional evaluation results which don't appear on the paper because of the page limit.
+The demonstration of the UniAP app interface is also provided in this section. 
 
 
 ### TABLE XII: Peturbation performance with/without prepending before audio signals.
