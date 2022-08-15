@@ -1,10 +1,232 @@
 #  Universal Adversarial Perturbations (UniAP)
 Here we provide both the original speech samples and the adversarial audio examples (perturbed speech signals) corresponding to the paper "UniAP: Protect Speech Privacy with Non-targeted Universal Adversarial Perturbations".
 
+## Detailed
+Appendix
+========
+
+Table <a href="#tab:prepending" data-reference-type="ref" data-reference="tab:prepending">[tab:prepending]</a>
+shows the jamming performance of different UAPs with or without
+prepending training, which shows that prepending training greatly
+improves the stability of JSR.As is shown from
+Table <a href="#tab:common words" data-reference-type="ref" data-reference="tab:common words">[tab:common words]</a>
+to
+Table <a href="#tab:combination multiple consonant" data-reference-type="ref" data-reference="tab:combination multiple consonant">[tab:combination multiple consonant]</a>,
+the performance of words combination is better than single word.
+Considering our perturbation sounds like people speaking, this
+phenomenon may be due to initialization statuses of words combination
+providing more syllables for generation procedure to manipulate.
 
 
 
-## Digital domain
+| **CER** | **JSR** | **SNR (dB)** | **CER** | **JSR** | **SNR (dB)** |
+|:-------:|:-------:|:------------:|:-------:|:-------:|:------------:|
+|  56.8%  |  62.5%  |     22.7     |  79.5%  |  88.2%  |     22.7     |
+|  67.8%  |  77.1%  |     22.8     |  67.5%  |  75.9%  |     22.7     |
+|  77.9%  |  85.7%  |     22.9     |  92.0%  |  92.3%  |     22.9     |
+|  80.8%  |  88.2%  |     22.8     |  88.4%  |  91.0%  |     22.9     |
+|  80.3%  |  86.7%  |     22.8     |  89.3%  |  91.1%  |     22.9     |
+|  73.0%  |  85.5%  |     22.9     |  76.8%  |  86.1%  |     22.9     |
+|  81.2%  |  88.6%  |     23.0     |  81.2%  |  88.1%  |     22.9     |
+|  85.2%  |  89.7%  |     22.9     |  95.2%  |  93.1%  |     22.8     |
+|  87.3%  |  91.7%  |     22.7     |  87.1%  |  90.7%  |     22.7     |
+|  77.9%  |  86.5%  |     22.8     |  81.1%  |  87.9%  |     22.9     |
+
+|   **Initialization Words of UAPs**   | **CER** | **JSR** | **SSS** | **SNR (dB)** |
+|:------------------------------------:|:-------:|:-------:|:-------:|:------------:|
+|               aduliadae              |  89.9%  |  90.9%  |   0.21  |     22.3     |
+|     especially namely furthermore    |  92.1%  |  91.5%  |   0.24  |     22.3     |
+|               for to be              |  95.5%  |  92.5%  |   0.24  |     22.3     |
+|          furthermore namely          |  86.5%  |  89.4%  |   0.24  |     22.3     |
+| investigations rosenboom mockingbird |  91.3%  |  91.9%  |   0.23  |     22.4     |
+|               loiacano               |  83.1%  |  89.2%  |   0.21  |     22.5     |
+|              mockingbird             |  85.4%  |  89.2%  |   0.25  |     22.3     |
+|          namely considering          |  85.0%  |  89.3%  |   0.26  |     22.3     |
+|      overstepped investigations      |  84.1%  |  90.0%  |   0.21  |     22.5     |
+|              paperworker             |  83.8%  |  89.6%  |   0.23  |     22.3     |
+|                  avg                 |  87.7%  |  90.4%  |   0.23  |     22.4     |
+
+|   **Initialization Words of UAPs**   | **CER** | **JSR** | **SSS** | **SNR (dB)** |
+|:------------------------------------:|:-------:|:-------:|:-------:|:------------:|
+|               aduliadae              |  70.0%  |  72.2%  |   0.24  |     25.4     |
+|     especially namely furthermore    |  72.7%  |  73.9%  |   0.28  |     25.4     |
+|               for to be              |  73.8%  |  74.1%  |   0.30  |     25.5     |
+|          furthermore namely          |  67.8%  |  70.5%  |   0.28  |     25.4     |
+| investigations rosenboom mockingbird |  71.5%  |  74.0%  |   0.26  |     25.5     |
+|               loiacano               |  67.9%  |  72.8%  |   0.26  |     25.6     |
+|              mockingbird             |  67.5%  |  70.5%  |   0.30  |     25.5     |
+|          namely considering          |  67.1%  |  70.8%  |   0.29  |     25.4     |
+|      overstepped investigations      |  67.7%  |  72.9%  |   0.26  |     25.7     |
+|              paperworker             |  66.1%  |  70.9%  |   0.27  |     25.4     |
+|                  avg                 |  69.2%  |  72.3%  |   0.27  |     25.2     |
+
+| **Initialization Words** | **CER** | **JSR** | **SNR (dB)** |
+|:------------------------:|:-------:|:-------:|:------------:|
+|         as far as        |  63.0%  |  70.9%  |     22.5     |
+|    generally speaking    |  69.3%  |  80.9%  |     22.6     |
+|        in contrast       |  72.1%  |  81.2%  |     22.7     |
+|         of course        |  68.6%  |  76.6%  |     22.8     |
+|      on the contrary     |  78.2%  |  85.0%  |     22.8     |
+|            avg           |  70.2%  |  78.9%  |     22.7     |
+
+| **Initialization Words** | **CER** | **JSR** | **SNR (dB)** |
+|:------------------------:|:-------:|:-------:|:------------:|
+|            be            |  65.2%  |  76.8%  |     22.6     |
+|            for           |  31.2%  |  12.6%  |     23.5     |
+|            not           |  56.4%  |  61.9%  |     22.6     |
+|            of            |  68.2%  |  75.8%  |     22.8     |
+|            to            |  73.0%  |  82.6%  |     22.6     |
+|            avg           |  58.8%  |  61.9%  |     22.8     |
+|         for be to        |  97.2%  |  92.7%  |     22.7     |
+|        for of not        |  54.9%  |  57.9%  |     22.7     |
+|          not of          |  63.5%  |  72.0%  |     22.6     |
+|           of be          |  63.4%  |  72.1%  |     22.7     |
+|         to be of         |  74.1%  |  85.1%  |     22.8     |
+|            avg           |  70.6%  |  76.0%  |     22.7     |
+
+|    **Initialization Words**   | **CER** | **JSR** | **SNR (dB)** |
+|:-----------------------------:|:-------:|:-------:|:------------:|
+|          considering          |  70.2%  |  79.5%  |     22.8     |
+|           especially          |  80.5%  |  87.8%  |     22.4     |
+|          furthermore          |  64.6%  |  71.3%  |     22.7     |
+|             namely            |  69.3%  |  80.6%  |     22.6     |
+|             while             |  38.8%  |  25.4%  |     22.5     |
+|              avg              |  64.7%  |  68.9%  |     22.6     |
+|  especially considering while |  73.0%  |  82.0%  |     22.6     |
+| especially namely furthermore |  93.7%  |  92.6%  |     22.6     |
+|       furthermore namely      |  87.3%  |  89.8%  |     22.6     |
+|       namely considering      |  86.3%  |  90.6%  |     22.6     |
+|    while considering namely   |  87.1%  |  89.4%  |     22.7     |
+|              avg              |  85.5%  |  88.9%  |     22.6     |
+
+|    **Initialization Words**    | **CER** | **JSR** | **SNR (dB)** |
+|:------------------------------:|:-------:|:-------:|:------------:|
+|            aduliadae           |  91.3%  |  91.6%  |     22.6     |
+|            kobayashi           |  69.2%  |  80.1%  |     22.7     |
+|            loiacano            |  84.0%  |  89.6%  |     22.8     |
+|            odonohue            |  55.8%  |  60.6%  |     22.6     |
+|           paperworker          |  85.3%  |  90.1%  |     22.6     |
+|               avg              |  71.1%  |  82.6%  |     22.7     |
+|       kobayashi odonohue       |  85.4%  |  89.1%  |     22.8     |
+| loiacano aduliadae paperworker |  81.9%  |  88.5%  |     22.9     |
+|   loiacano odonohue kobayash   |  73.2%  |  84.5%  |     22.8     |
+|       odonohue aduliadae       |  77.6%  |  85.2%  |     22.7     |
+| paperworker aduliadae odonohue |  76.7%  |  82.9%  |     22.8     |
+|               avg              |  79.0%  |  86.0%  |     22.8     |
+
+|        **Initialization Words**        | **CER** | **JSR** | **SNR (dB)** |
+|:--------------------------------------:|:-------:|:-------:|:------------:|
+|             investigations             |  80.4%  |  87.3%  |     22.7     |
+|               mockingbird              |  86.8%  |  89.8%  |     22.7     |
+|               overstepped              |  64.5%  |  72.5%  |     22.6     |
+|                rosenboom               |  77.6%  |  84.5%  |     22.7     |
+|               underplayed              |  80.2%  |  88.1%  |     22.6     |
+|                   avg                  |  77.9%  |  84.4%  |     22.7     |
+| investigations overstepped mockingbird |  73.3%  |  83.1%  |     22.6     |
+|  investigations rosenboom mockingbird  |  93.0%  |  92.2%  |     22.7     |
+|       mockingbird investigations       |  81.3%  |  87.7%  |     22.8     |
+|       overstepped investigations       |  85.0%  |  89.9%  |     22.9     |
+|   underplayed mockingbird overstepped  |  69.1%  |  75.9%  |     22.8     |
+|                   avg                  |  80.3%  |  85.8%  |     22.7     |
+
+|   **Initialization Words of UAPs**   | **CER** | **JSR** | **SSS** | **SNR (dB)** |
+|:------------------------------------:|:-------:|:-------:|:-------:|:------------:|
+|               aduliadae              |  89.9%  |  90.9%  |   0.21  |     22.3     |
+|     especially namely furthermore    |  92.1%  |  91.5%  |   0.24  |     22.3     |
+|               for to be              |  95.5%  |  92.5%  |   0.24  |     22.3     |
+|          furthermore namely          |  86.5%  |  89.4%  |   0.24  |     22.3     |
+| investigations rosenboom mockingbird |  91.3%  |  91.9%  |   0.23  |     22.4     |
+|               loiacano               |  83.1%  |  89.2%  |   0.21  |     22.5     |
+|              mockingbird             |  85.4%  |  89.2%  |   0.25  |     22.3     |
+|          namely considering          |  85.0%  |  89.3%  |   0.26  |     22.3     |
+|      overstepped investigations      |  84.1%  |  90.0%  |   0.21  |     22.5     |
+|              paperworker             |  83.8%  |  89.6%  |   0.23  |     22.3     |
+|                  avg                 |  87.7%  |  90.4%  |   0.23  |     22.4     |
+
+|   **Initialization Words of UAPs**   | **CER** | **JSR** | **SSS** | **SNR (dB)** |
+|:------------------------------------:|:-------:|:-------:|:-------:|:------------:|
+|               aduliadae              |  70.0%  |  72.2%  |   0.24  |     25.4     |
+|     especially namely furthermore    |  72.7%  |  73.9%  |   0.28  |     25.4     |
+|               for to be              |  73.8%  |  74.1%  |   0.30  |     25.5     |
+|          furthermore namely          |  67.8%  |  70.5%  |   0.28  |     25.4     |
+| investigations rosenboom mockingbird |  71.5%  |  74.0%  |   0.26  |     25.5     |
+|               loiacano               |  67.9%  |  72.8%  |   0.26  |     25.6     |
+|              mockingbird             |  67.5%  |  70.5%  |   0.30  |     25.5     |
+|          namely considering          |  67.1%  |  70.8%  |   0.29  |     25.4     |
+|      overstepped investigations      |  67.7%  |  72.9%  |   0.26  |     25.7     |
+|              paperworker             |  66.1%  |  70.9%  |   0.27  |     25.4     |
+|                  avg                 |  69.2%  |  72.3%  |   0.27  |     25.2     |
+
+| **Initialization Words** | **CER** | **JSR** | **SNR (dB)** |
+|:------------------------:|:-------:|:-------:|:------------:|
+|         as far as        |  63.0%  |  70.9%  |     22.5     |
+|    generally speaking    |  69.3%  |  80.9%  |     22.6     |
+|        in contrast       |  72.1%  |  81.2%  |     22.7     |
+|         of course        |  68.6%  |  76.6%  |     22.8     |
+|      on the contrary     |  78.2%  |  85.0%  |     22.8     |
+|            avg           |  70.2%  |  78.9%  |     22.7     |
+
+| **Initialization Words** | **CER** | **JSR** | **SNR (dB)** |
+|:------------------------:|:-------:|:-------:|:------------:|
+|            be            |  65.2%  |  76.8%  |     22.6     |
+|            for           |  31.2%  |  12.6%  |     23.5     |
+|            not           |  56.4%  |  61.9%  |     22.6     |
+|            of            |  68.2%  |  75.8%  |     22.8     |
+|            to            |  73.0%  |  82.6%  |     22.6     |
+|            avg           |  58.8%  |  61.9%  |     22.8     |
+|         for be to        |  97.2%  |  92.7%  |     22.7     |
+|        for of not        |  54.9%  |  57.9%  |     22.7     |
+|          not of          |  63.5%  |  72.0%  |     22.6     |
+|           of be          |  63.4%  |  72.1%  |     22.7     |
+|         to be of         |  74.1%  |  85.1%  |     22.8     |
+|            avg           |  70.6%  |  76.0%  |     22.7     |
+
+|    **Initialization Words**   | **CER** | **JSR** | **SNR (dB)** |
+|:-----------------------------:|:-------:|:-------:|:------------:|
+|          considering          |  70.2%  |  79.5%  |     22.8     |
+|           especially          |  80.5%  |  87.8%  |     22.4     |
+|          furthermore          |  64.6%  |  71.3%  |     22.7     |
+|             namely            |  69.3%  |  80.6%  |     22.6     |
+|             while             |  38.8%  |  25.4%  |     22.5     |
+|              avg              |  64.7%  |  68.9%  |     22.6     |
+|  especially considering while |  73.0%  |  82.0%  |     22.6     |
+| especially namely furthermore |  93.7%  |  92.6%  |     22.6     |
+|       furthermore namely      |  87.3%  |  89.8%  |     22.6     |
+|       namely considering      |  86.3%  |  90.6%  |     22.6     |
+|    while considering namely   |  87.1%  |  89.4%  |     22.7     |
+|              avg              |  85.5%  |  88.9%  |     22.6     |
+
+|    **Initialization Words**    | **CER** | **JSR** | **SNR (dB)** |
+|:------------------------------:|:-------:|:-------:|:------------:|
+|            aduliadae           |  91.3%  |  91.6%  |     22.6     |
+|            kobayashi           |  69.2%  |  80.1%  |     22.7     |
+|            loiacano            |  84.0%  |  89.6%  |     22.8     |
+|            odonohue            |  55.8%  |  60.6%  |     22.6     |
+|           paperworker          |  85.3%  |  90.1%  |     22.6     |
+|               avg              |  71.1%  |  82.6%  |     22.7     |
+|       kobayashi odonohue       |  85.4%  |  89.1%  |     22.8     |
+| loiacano aduliadae paperworker |  81.9%  |  88.5%  |     22.9     |
+|   loiacano odonohue kobayash   |  73.2%  |  84.5%  |     22.8     |
+|       odonohue aduliadae       |  77.6%  |  85.2%  |     22.7     |
+| paperworker aduliadae odonohue |  76.7%  |  82.9%  |     22.8     |
+|               avg              |  79.0%  |  86.0%  |     22.8     |
+
+|        **Initialization Words**        | **CER** | **JSR** | **SNR (dB)** |
+|:--------------------------------------:|:-------:|:-------:|:------------:|
+|             investigations             |  80.4%  |  87.3%  |     22.7     |
+|               mockingbird              |  86.8%  |  89.8%  |     22.7     |
+|               overstepped              |  64.5%  |  72.5%  |     22.6     |
+|                rosenboom               |  77.6%  |  84.5%  |     22.7     |
+|               underplayed              |  80.2%  |  88.1%  |     22.6     |
+|                   avg                  |  77.9%  |  84.4%  |     22.7     |
+| investigations overstepped mockingbird |  73.3%  |  83.1%  |     22.6     |
+|  investigations rosenboom mockingbird  |  93.0%  |  92.2%  |     22.7     |
+|       mockingbird investigations       |  81.3%  |  87.7%  |     22.8     |
+|       overstepped investigations       |  85.0%  |  89.9%  |     22.9     |
+|   underplayed mockingbird overstepped  |  69.1%  |  75.9%  |     22.8     |
+|                   avg                  |  80.3%  |  85.8%  |     22.7     |
+
+## Digital domain Samples
 
 We generate multiple non-targeted universal adversarial perturbations (UAPs) from different initialization status to defend against template subtracting. We set the initialization status to be one of the following categories: random combination of sentence starter words, words containing multiple vowel phonemes, words containing multiple consonant phonemes and their combination. 
 
@@ -144,7 +366,9 @@ https://user-images.githubusercontent.com/97931505/168720955-5fb8a794-a975-4399-
 
 Transcript: "the help in for a gut intol the riht he his hair be through tham n the hat the pointed every wich way would have ling with in aflick of the otheas le lags he would dar when think you took his with he would be glad the other thing you tened his cos would mi ly would have what he would have for the morning ame as fears tho here without  any hair at all ther the for the".
 
-## Over-the-air
+
+
+## Over-the-air Samples
 
 We provide the random-chunk UAPs without over-the-air enhancement, cause there is little difference between the UAPs with and without enhancement from the hearing perspective. All the audios are recorded by real recording equipments and all of the given transcripts are the output of the robust DeepSpeech. Here we utilize distortion level to measure the noise-signal ratio. 
 
