@@ -386,7 +386,8 @@ Origin audio + Universal perturbaion (random-chunk, distortion level: -44.5dB):
 https://user-images.githubusercontent.com/97931505/169000396-4be485c8-961a-47c6-a0ef-ebc037b9a803.mov
 
 
-Transcript: "u for they were  take t with his ledelo were dog he say we ma forwar am pine  his pis er friy with tach more creshion of the o the thishs is lowere wuat".
+Transcript: "pror they was take with his petedelawere dog he says wea in forwas in piams his cosem fing with jaction which gressiono be o tewisis is flimeref quat
+".
 
 ### Voice call scenario
 
@@ -408,7 +409,7 @@ Origin audio + Universal perturbaion (Q, random-chunk, distortion-S: -46.07dB, d
 https://user-images.githubusercontent.com/97931505/168986645-1161b7a8-ef9b-49ac-a376-ca63b7c57314.mov
 
 
-Transcript: "prob wold be thorgh them but influlers which no to ne is has es recised the pontes perity from they would misdobe hards re to a misular standing". 
+Transcript: "would be ther them the influles which the e to me is has exerecised he bon bessparity from they would isdobed hard le to a missilir standir". 
 
 Origin audio + Universal perturbaion (L, random-chunk, distortion-S: -44.97dB, distortion-R: -22.9dB):
 
@@ -416,6 +417,5 @@ Origin audio + Universal perturbaion (L, random-chunk, distortion-S: -44.97dB, d
 https://user-images.githubusercontent.com/97931505/168986668-9f34bdcf-b50b-4e96-8a31-436f701f097f.mov
 
 
-Transcript: "would have ikeof the other tut olfuanc which thed pe may i with has exercised the pon o threre to wul bethew theim is dom hartly to omistunderstand it
-".
+Transcript: "wul have like of the other o thet ol fuents which thed te me i with hes edrers rised the boy of thry to i re though them is do whithordly to olittender stand er".
 
