@@ -1,9 +1,13 @@
 #  Universal Adversarial Perturbations (UniAP)
-Here we provide the appendix and both the original speech samples and the adversarial audio examples (perturbed speech signals) corresponding to the paper "UniAP: Protect Speech Privacy with Non-targeted Universal Adversarial Perturbations".
+This repo corresponds to the paper "UniAP: Protect Speech Privacy with Non-targeted Universal Adversarial Perturbations".
+Here we provide the appendix of the paper and audio samples including both the original speech samples and the adversarial audio examples (perturbed speech signals). 
 
 ## Appendix
 
-### TABLE XII: Peturbation performance with/without prepend-ing before audio signals.
+In the appendix, we provide additional evaluation results which not appear on the paper because of the page limit and the demonstration of the UniAP app interface. 
+
+
+### TABLE XII: Peturbation performance with/without prepending before audio signals.
 
 | **CER** | **JSR** | **SNR (dB)** | **CER** | **JSR** | **SNR (dB)** |
 |:-------:|:-------:|:------------:|:-------:|:-------:|:------------:|
