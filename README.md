@@ -301,7 +301,7 @@ https://user-images.githubusercontent.com/97931505/168979733-4554c11e-36cf-41ee-
 
 Ground truth: "it was the scarlet letter in another form the scarlet letter endowed with life".
 
-Transcript: "it was the scar of letter in hanother form the scar ed letter in dowled with lighes".
+Transcript: "it was the scar et letter in thanother form the scared letter in doled with life".
 
 
 Origin audio + Universal perturbaion (random-chunk, distortion level: -44.5dB):
@@ -319,7 +319,7 @@ https://user-images.githubusercontent.com/97931505/168983698-4369214e-f6c5-4bc7-
 
 Ground truth: "the grateful applause of the clergy has consecrated the memory of a prince who indulged their passions and promoted their interest".
 
-Transcript: "the greateful flaws of the clerity has cauneecrated the memory of a crince who andulged their passes and promoted their interest".
+Transcript: "the great ful blaws of the clarisy has consegrated weh memory of a crince who haddulged their passes and promoved their interest".
 
 Origin audio + Universal perturbaion (random-chunk, distortion level: -44.5dB):
 
@@ -334,7 +334,7 @@ https://user-images.githubusercontent.com/97931505/168979862-66a6b56d-5d34-4773-
 
 Ground truth: "there jap you've caught it laughed percy while the others screamed at the sight of jasper's face".
 
-Transcript:  "there jap you'v cot it laughed fircy while the other spreamed at the sigde of jaskes face".
+Transcript:  "there jack you'v cogh it blaughe fursy while the others screamed tat the side of jaspe's face".
 
 
 Origin audio + Universal perturbaion (random-chunk, distortion level: -44.5dB):
@@ -352,7 +352,7 @@ https://user-images.githubusercontent.com/97931505/168979955-154633a4-a575-4fc9-
 
 Ground truth: "it is the head of a parrot with a little flower in his beak from a picture of carpaccio's one of his series of the life of saint george".
 
-Transcript: "des the head of a parot of the little flowering he seat from a pictureof propotious one of his series of the life of santjurge".
+Transcript: "des the head of a paret of the little flower wos beat from a picture croposious one of his series of the life of santgerge".
 
 Origin audio + Universal perturbaion (random-chunk, distortion level: -42dB):
 
@@ -378,7 +378,7 @@ https://user-images.githubusercontent.com/97931505/169000330-69acde04-4a62-4d93-
 
 Ground truth: "the delaware dog he said leaning forward and peering through the dim light to catch the expression of the other's features is he afraid".
 
-Transcript: "the delaware dork he said leaving forward and perang through the dim light to catch the expression of the other speechors dis het rad".
+Transcript: "he ethe delaware dor he said leaning forward and peren through the dimp lighe te tach the expression of the other sfeetures is heatearate".
 
 Origin audio + Universal perturbaion (random-chunk, distortion level: -44.5dB):
 
@@ -401,7 +401,7 @@ https://user-images.githubusercontent.com/97931505/168986285-bd494a5e-e25d-4be3-
 
 Ground truth: "the influence with the timaeus has exercised upon posterity is due partly to a misunderstanding".
 
-Transcript: "at the influence which the to me us has ex recised the pon desterity is duehartly to a misenderstanding".
+Transcript: "athe influence which the to meus has exercised the bon besterity is du partly to a misunderstanding".
 
 Origin audio + Universal perturbaion (Q, random-chunk, distortion-S: -46.07dB, distortion-R: -31.3dB):
 
