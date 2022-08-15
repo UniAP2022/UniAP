@@ -310,7 +310,7 @@ Origin audio + Universal perturbaion (random-chunk, distortion level: -44.5dB):
 https://user-images.githubusercontent.com/97931505/168981050-e6b28fba-e6a7-4352-a471-576eaabde09a.mov
 
 
-Transcript: "take with his wo t at es e scards flatter as interele fil butk o the a far that letter as  dou h his life theyl".
+Transcript: "take with his wo t it he a scares flatter af in anoth fi lotok o the a par at letter i his owl to his life the ol".
 
 #### UMD = 4m, JMD = 4m
 Origin audio (1284-134647-0000 in Librispeech):
@@ -325,7 +325,7 @@ Origin audio + Universal perturbaion (random-chunk, distortion level: -44.5dB):
 
 https://user-images.githubusercontent.com/97931505/168981099-a76626e2-b2e6-4771-9f7e-5d3f19c1e028.mov
 
-Transcript: "wut is rison n for the ratful douses aclergey on the poscositrateds and mouas his trin singue tocal induly mintachi god through the and permiliis ther on to re leu ws".
+Transcript: "wold i to them for they arathfle bow  is aclerd the on the hitconstetrated  men wir ye was his trame singu to a induli f i ha tracti wood throughthe andpormiliwas erfol to reflute would have".
 
 #### UMD = 0m, JMD = 1m
 Origin audio (237-126133-0017 in Librispeech):
@@ -341,7 +341,7 @@ Origin audio + Universal perturbaion (random-chunk, distortion level: -44.5dB):
 
 https://user-images.githubusercontent.com/97931505/168981156-8820f44d-a865-49d0-806b-7b47d1d52af1.mov
 
-Transcript: "i  the other tair jaftes cothis s re lagh wir he ol clallty others sreem bat e cesteve jasp bes mamed".
+Transcript: "liok a the othr tere jaf you've cot itthrough laugh wer the ole walthe others freen but exated jasplet ay".
 
 #### UMD = 0m, JMD = 4m
 
@@ -358,7 +358,7 @@ Origin audio + Universal perturbaion (random-chunk, distortion level: -42dB):
 
 https://user-images.githubusercontent.com/97931505/168981206-081481c9-7c3e-4bae-a7a7-9164e58104e4.mov
 
-Transcript: "goo the heado mareth othe loaflolly is be it fron e fitule take osyous they af them i forther seriously de lighte sane re as".
+Transcript: "cos the heal marth the wilfflows bea frome feture tak osrias the hod them i fonly seriously the light wo sane clul".
 
 ### Walking scenario
 
