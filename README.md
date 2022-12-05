@@ -176,12 +176,13 @@ It should be noted that, in the following tables, we consider both vowel and sem
 |                   avg                  |  80.3%  |  85.8%  |     22.7     |
 
 ### Demonstration of the UniAP app interface
+The following images show the interface of our app. It should be noted that our app requires no permission to access the sensitive microphone data. 
 
 ![app1](https://user-images.githubusercontent.com/97931505/184637206-550d12ac-a954-406c-905f-51edf6789f06.jpg)
 ![app2](https://user-images.githubusercontent.com/97931505/184637213-d20e440d-fd8c-4587-9b3f-51129ce4dfb4.jpg)
 
 ## Digital domain Samples
-
+ 
 We generate multiple non-targeted universal adversarial perturbations (UAPs) from different initialization status to defend against template subtracting. We set the initialization status to be one of the following categories: random combination of sentence starter words, words containing multiple vowel phonemes, words containing multiple consonant phonemes and their combination. 
 
 We also include a random-chunk perturbation, which is formed by randomly selecting UAP chunks from a UAP pool. 
