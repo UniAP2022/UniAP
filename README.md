@@ -177,6 +177,7 @@ It should be noted that, in the following tables, we consider both vowel and sem
 
 ### Demonstration of the UniAP app interface
 The following images show the interface of our app. It should be noted that our app requires no permission to access the sensitive microphone data. 
+
 As for the event reservation function which may require of the permission of reading/writing calendar, it's up to the user to decide whether to grant the permission. 
 
 ![app1](https://user-images.githubusercontent.com/97931505/184637206-550d12ac-a954-406c-905f-51edf6789f06.jpg)
